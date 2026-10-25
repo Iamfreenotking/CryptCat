@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "cs-CZ",
+  "languageName": "Czech",
+  "title": "KryptoKočka",
+  "subtitle": "Offline šifrování souborů",
+  "shortDescription": "Offline šifrování souborů",
+  "promotionalText": "Šifrujte a dešifrujte soubory offline. Soubory a hesla zůstávají v zařízení.",
+  "fullDescription": "KryptoKočka pomáhá šifrovat a dešifrovat soubory offline v telefonu nebo tabletu. Vyberte soubor, zadejte heslo a uložte soubor .cryptcat. Starší soubory .crypt3 lze stále otevřít. Soubory a hesla zůstávají v tomto zařízení. Aplikace nepotřebuje internet pro šifrování ani dešifrování. Heslo si bezpečně uložte; ztracené heslo nelze obnovit.",
+  "keywords": "šifrování,offline,soubor,soukromí,heslo",
+  "whatsNew": "Offline šifrování souborů",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KryptoKočka"
+}

@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "sl",
+  "languageName": "Slovenian",
+  "title": "KriptoMačka",
+  "subtitle": "Šifriranje datotek offline",
+  "shortDescription": "Šifrirajte in dešifrirajte datoteke brez interneta. Datoteke in gesla ostanejo v napravi.",
+  "promotionalText": "Šifrirajte in dešifrirajte datoteke brez interneta. Datoteke in gesla ostanejo v napravi.",
+  "fullDescription": "KriptoMačka pomaga šifrirati in dešifrirati datoteke brez interneta na telefonu ali tablici. Izberite datoteko, vnesite geslo in shranite datoteko .cryptcat. Stare datoteke .crypt3 je še vedno mogoče odpreti. Datoteke in gesla ostanejo v tej napravi. Aplikacija ne potrebuje interneta za šifriranje ali dešifriranje. Geslo skrbno shranite; izgubljenega gesla ni mogoče obnoviti.",
+  "keywords": "šifriranje,offline,datoteka,zasebnost,geslo",
+  "whatsNew": "Šifrirajte in dešifrirajte datoteke brez interneta. Datoteke in gesla ostanejo v napravi.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "KriptoMačka",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

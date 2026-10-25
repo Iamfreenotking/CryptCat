@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "fil",
+  "languageName": "Filipino",
+  "title": "CryptPusa",
+  "subtitle": "Offline na pag-encrypt",
+  "shortDescription": "Offline na pag-encrypt",
+  "promotionalText": "I-encrypt at buksan ang mga file nang walang internet. Nananatili sa device ang file at password.",
+  "fullDescription": "Tinutulungan ka ng CryptPusa na i-encrypt at buksan ang mga file nang walang internet sa phone o tablet. Pumili ng file, ilagay ang password, at i-save bilang .cryptcat file. Mabubuksan pa rin ang lumang .crypt3 files. Nananatili sa device na ito ang mga file at password. Ingatan ang password; hindi na ito mababawi kapag nawala.",
+  "keywords": "encryption,offline,file,privacy,password",
+  "whatsNew": "Offline na pag-encrypt",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CryptPusa"
+}

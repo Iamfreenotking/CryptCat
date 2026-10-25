@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "it",
+  "languageName": "Italian",
+  "title": "CriptoGatto",
+  "subtitle": "Crittografia file offline",
+  "shortDescription": "Cripta e decripta file offline. File e password restano sul dispositivo.",
+  "promotionalText": "Cripta e decripta file offline. File e password restano sul dispositivo.",
+  "fullDescription": "CriptoGatto ti aiuta a criptare e decriptare file offline su telefono o tablet. Scegli un file, inserisci una password e salva un file .cryptcat. I vecchi file .crypt3 restano apribili. File e password restano su questo dispositivo. L’app non richiede internet per criptare o decriptare. Conserva bene la password: non può essere recuperata se la perdi.",
+  "keywords": "crittografia,offline,file,privacy,password",
+  "whatsNew": "Cripta e decripta file offline. File e password restano sul dispositivo.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "CriptoGatto",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "sr",
+  "languageName": "Serbian",
+  "title": "КриптоМачка",
+  "subtitle": "Офлајн шифровање",
+  "shortDescription": "Офлајн шифровање",
+  "promotionalText": "Шифрујте и отварајте датотеке без интернета. Датотеке и лозинке остају на уређају.",
+  "fullDescription": "КриптоМачка помаже да шифрујете и отварате датотеке без интернета на телефону или таблету. Изаберите датотеку, унесите лозинку и сачувајте .cryptcat датотеку. Старе .crypt3 датотеке и даље могу да се отворе. Датотеке и лозинке остају на овом уређају. Чувајте лозинку; изгубљена лозинка не може да се врати.",
+  "keywords": "шифровање,офлајн,датотека,приватност,лозинка",
+  "whatsNew": "Офлајн шифровање",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "КриптоМачка"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "crypt3",
+  "version": "1.0.0",
+  "description": "Crypt3 - Offline File Encryption & Decryption (AES-256-CBC)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test-crypto-roundtrip.mjs && node scripts/test-locale-detect.mjs && node scripts/test-locale-startup.mjs && node scripts/test-store-listings.mjs && node scripts/test-visual-guides.mjs",
+    "generate:store-listings": "node scripts/generate-store-listings.mjs",
+    "test:store-listings": "node scripts/test-store-listings.mjs",
+    "sync:ios": "npx cap sync ios",
+    "sync:android": "npx cap sync android"
+  },
+  "keywords": [],
+  "author": "BULLBULLGO SOFTWARE LLC",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/android": "^8.4.1",
+    "@capacitor/cli": "^8.4.1",
+    "@capacitor/core": "^8.4.1",
+    "@capacitor/device": "^8.0.2",
+    "@capacitor/filesystem": "^8.1.2",
+    "@capacitor/ios": "^8.4.1",
+    "@capacitor/share": "^8.0.1",
+    "@capacitor/status-bar": "^8.0.2",
+    "libsodium-wrappers-sumo": "^0.8.4"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}

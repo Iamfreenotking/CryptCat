@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "fi",
+  "languageName": "Finnish",
+  "title": "KryptoKissa",
+  "subtitle": "Offline-tiedostosalaus",
+  "shortDescription": "Salaa ja pura tiedostoja ilman nettiä. Tiedostot ja salasanat pysyvät laitteellasi.",
+  "promotionalText": "Salaa ja pura tiedostoja ilman nettiä. Tiedostot ja salasanat pysyvät laitteellasi.",
+  "fullDescription": "KryptoKissa auttaa salaamaan ja purkamaan tiedostoja ilman internetiä puhelimella tai tabletilla. Valitse tiedosto, anna salasana ja tallenna .cryptcat-tiedosto. Vanhoja .crypt3-tiedostoja voi edelleen avata. Tiedostot ja salasanat pysyvät tällä laitteella. Sovellus ei tarvitse internetiä salaukseen tai purkuun. Säilytä salasana huolellisesti; kadonnutta salasanaa ei voi palauttaa.",
+  "keywords": "salaus,offline,tiedosto,yksityisyys,salasana",
+  "whatsNew": "Salaa ja pura tiedostoja ilman nettiä. Tiedostot ja salasanat pysyvät laitteellasi.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "KryptoKissa",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

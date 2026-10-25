@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "sk",
+  "languageName": "Slovak",
+  "title": "KryptoMačka",
+  "subtitle": "Offline šifrovanie súborov",
+  "shortDescription": "Šifrujte a dešifrujte súbory offline. Súbory a heslá zostávajú v zariadení.",
+  "promotionalText": "Šifrujte a dešifrujte súbory offline. Súbory a heslá zostávajú v zariadení.",
+  "fullDescription": "KryptoMačka pomáha šifrovať a dešifrovať súbory offline v telefóne alebo tablete. Vyberte súbor, zadajte heslo a uložte súbor .cryptcat. Staršie súbory .crypt3 sa stále dajú otvoriť. Súbory a heslá zostávajú v tomto zariadení. Aplikácia nepotrebuje internet. Heslo si bezpečne uložte; stratené heslo nemožno obnoviť.",
+  "keywords": "šifrovanie,offline,súbor,súkromie,heslo",
+  "whatsNew": "Šifrujte a dešifrujte súbory offline. Súbory a heslá zostávajú v zariadení.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "KryptoMačka",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

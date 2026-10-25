@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "si-LK",
+  "languageName": "Sinhala",
+  "title": "ක්‍රිප්ටෝබළලා",
+  "subtitle": "නොබැඳි ගොනු සංකේතනය",
+  "shortDescription": "නොබැඳි ගොනු සංකේතනය",
+  "promotionalText": "අන්තර්ජාලය නැතිව ගොනු සංකේතනය කර විවෘත කරන්න. ගොනු සහ මුරපද උපාංගයේම තබාගනී.",
+  "fullDescription": "ක්‍රිප්ටෝබළලා දුරකථනයේ හෝ ටැබ්ලටයේ අන්තර්ජාලය නැතිව ගොනු සංකේතනය කර විවෘත කිරීමට උදව් කරයි. ගොනුවක් තෝරන්න, මුරපදය ඇතුළත් කරන්න, .cryptcat ගොනුවක් ලෙස සුරකින්න. පැරණි .crypt3 ගොනුද විවෘත කළ හැක. මුරපදය ආරක්ෂිතව තබන්න; නැතිවූ මුරපදය නැවත ලබාගත නොහැක.",
+  "keywords": "සංකේතනය,නොබැඳි,ගොනුව,පෞද්ගලිකත්වය,මුරපදය",
+  "whatsNew": "නොබැඳි ගොනු සංකේතනය",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ක්‍රිප්ටෝබළලා"
+}

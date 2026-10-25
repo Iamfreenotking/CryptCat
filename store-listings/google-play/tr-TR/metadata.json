@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "tr-TR",
+  "languageName": "Turkish",
+  "title": "KriptoKedi",
+  "subtitle": "Çevrimdışı dosya şifreleme",
+  "shortDescription": "Çevrimdışı dosya şifreleme",
+  "promotionalText": "Dosyaları internetsiz şifreleyin ve açın. Dosyalar ve parolalar cihazınızda kalır.",
+  "fullDescription": "KriptoKedi, telefonda veya tablette dosyaları internet olmadan şifrelemenize ve açmanıza yardım eder. Bir dosya seçin, parola girin ve .cryptcat dosyası olarak kaydedin. Eski .crypt3 dosyaları da açılabilir. Dosyalar ve parolalar bu cihazda kalır. Uygulama şifreleme veya çözme için internet gerektirmez. Parolanızı güvenli saklayın; kaybolan parola geri getirilemez.",
+  "keywords": "şifreleme,çevrimdışı,dosya,gizlilik,parola",
+  "whatsNew": "Çevrimdışı dosya şifreleme",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KriptoKedi"
+}

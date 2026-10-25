@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "fr-FR",
+  "languageName": "French",
+  "title": "CryptoChat",
+  "subtitle": "Chiffrement hors ligne",
+  "shortDescription": "Chiffrez et déchiffrez vos fichiers hors ligne. Fichiers et mots de passe restent sur l’appareil.",
+  "promotionalText": "Chiffrez et déchiffrez vos fichiers hors ligne. Fichiers et mots de passe restent sur l’appareil.",
+  "fullDescription": "CryptoChat vous aide à chiffrer et déchiffrer des fichiers hors ligne sur téléphone ou tablette. Choisissez un fichier, saisissez un mot de passe, puis enregistrez un fichier .cryptcat. Les anciens fichiers .crypt3 restent lisibles. Les fichiers et mots de passe restent sur cet appareil. L’app n’a pas besoin d’internet pour chiffrer ou déchiffrer. Gardez votre mot de passe en lieu sûr : CryptoChat ne peut pas le récupérer.",
+  "keywords": "chiffrement,hors ligne,fichier,confidentialité,mot de passe",
+  "whatsNew": "Chiffrez et déchiffrez vos fichiers hors ligne. Fichiers et mots de passe restent sur l’appareil.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "CryptoChat",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

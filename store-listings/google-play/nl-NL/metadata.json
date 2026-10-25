@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "nl-NL",
+  "languageName": "Dutch",
+  "title": "CryptoKat",
+  "subtitle": "Offline bestandsversleuteling",
+  "shortDescription": "Offline bestandsversleuteling",
+  "promotionalText": "Versleutel en ontsleutel bestanden offline. Bestanden en wachtwoorden blijven op je apparaat.",
+  "fullDescription": "CryptoKat helpt je bestanden offline te versleutelen en te ontsleutelen op je telefoon of tablet. Kies een bestand, voer een wachtwoord in en bewaar een .cryptcat-bestand. Oude .crypt3-bestanden kunnen nog steeds worden geopend. Bestanden en wachtwoorden blijven op dit apparaat. De app heeft geen internet nodig voor versleuteling of ontsleuteling. Bewaar je wachtwoord goed; CryptoKat kan een verloren wachtwoord niet herstellen.",
+  "keywords": "versleuteling,offline,bestand,privacy,wachtwoord",
+  "whatsNew": "Offline bestandsversleuteling",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CryptoKat"
+}

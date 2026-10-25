@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "ja",
+  "languageName": "Japanese",
+  "title": "暗号猫",
+  "subtitle": "オフラインファイル暗号化",
+  "shortDescription": "インターネットなしでファイルを暗号化・復号。ファイルとパスワードは端末内に残ります。",
+  "promotionalText": "インターネットなしでファイルを暗号化・復号。ファイルとパスワードは端末内に残ります。",
+  "fullDescription": "暗号猫は、スマートフォンやタブレットでファイルをオフラインで暗号化・復号するためのアプリです。ファイルを選び、パスワードを入力して .cryptcat ファイルを保存します。古い .crypt3 ファイルも開けます。ファイルとパスワードはこの端末内に残ります。暗号化と復号にインターネットは不要です。パスワードは安全に保管してください。失くしたパスワードは復元できません。",
+  "keywords": "暗号化,オフライン,ファイル,プライバシー,パスワード",
+  "whatsNew": "インターネットなしでファイルを暗号化・復号。ファイルとパスワードは端末内に残ります。",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "暗号猫",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

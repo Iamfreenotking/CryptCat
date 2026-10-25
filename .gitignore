@@ -1,0 +1,39 @@
+# Dependencies and generated output
+node_modules/
+ios/
+android/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+ios/DerivedData/
+ios/App/App/build/
+release/
+
+# IDE and OS files
+.DS_Store
+.cursor/
+.idea/
+*.xcuserstate
+xcuserdata/
+
+# Signing credentials and local secrets
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+*.cer
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+google-services.json
+secrets/
+
+# Local test output and user data
+*.crypt3
+*.cryptcat
+test-output/
+captures/
+

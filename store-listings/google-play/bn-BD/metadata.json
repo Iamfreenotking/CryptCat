@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "bn-BD",
+  "languageName": "Bangla",
+  "title": "ক্রিপ্টক্যাট",
+  "subtitle": "অফলাইন ফাইল এনক্রিপশন",
+  "shortDescription": "অফলাইন ফাইল এনক্রিপশন",
+  "promotionalText": "অফলাইনে ফাইল এনক্রিপ্ট ও ডিক্রিপ্ট করুন। ফাইল ও পাসওয়ার্ড আপনার ডিভাইসেই থাকে।",
+  "fullDescription": "ক্রিপ্টক্যাট ফোন বা ট্যাবলেটে অফলাইনে ফাইল এনক্রিপ্ট ও ডিক্রিপ্ট করতে সাহায্য করে। একটি ফাইল বেছে নিন, পাসওয়ার্ড দিন, তারপর .cryptcat ফাইল সংরক্ষণ করুন। পুরোনো .crypt3 ফাইলও খোলা যাবে। ফাইল ও পাসওয়ার্ড এই ডিভাইসেই থাকে। এনক্রিপশন বা ডিক্রিপশনের জন্য ইন্টারনেট লাগে না। পাসওয়ার্ড নিরাপদে রাখুন; হারালে ক্রিপ্টক্যাট তা ফিরিয়ে দিতে পারবে না।",
+  "keywords": "এনক্রিপশন,অফলাইন,ফাইল,গোপনীয়তা,পাসওয়ার্ড",
+  "whatsNew": "অফলাইন ফাইল এনক্রিপশন",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ক্রিপ্টক্যাট"
+}

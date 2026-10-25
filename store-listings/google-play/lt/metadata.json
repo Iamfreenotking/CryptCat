@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "lt",
+  "languageName": "Lithuanian",
+  "title": "KriptoKatė",
+  "subtitle": "Failų šifravimas be interneto",
+  "shortDescription": "Failų šifravimas be interneto",
+  "promotionalText": "Šifruokite ir atverkite failus be interneto. Failai ir slaptažodžiai lieka įrenginyje.",
+  "fullDescription": "KriptoKatė padeda šifruoti ir atverti failus be interneto telefone ar planšetėje. Pasirinkite failą, įveskite slaptažodį ir išsaugokite .cryptcat failą. Senus .crypt3 failus vis dar galima atverti. Failai ir slaptažodžiai lieka šiame įrenginyje. Saugokite slaptažodį; prarasto slaptažodžio atkurti negalima.",
+  "keywords": "šifravimas,be interneto,failas,privatumas,slaptažodis",
+  "whatsNew": "Failų šifravimas be interneto",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KriptoKatė"
+}

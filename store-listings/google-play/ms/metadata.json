@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ms",
+  "languageName": "Malay",
+  "title": "KucingKripto",
+  "subtitle": "Sulitkan fail luar talian",
+  "shortDescription": "Sulitkan fail luar talian",
+  "promotionalText": "Sulit dan nyahsulit fail tanpa internet. Fail dan kata laluan kekal pada peranti anda.",
+  "fullDescription": "KucingKripto membantu menyulitkan dan menyahsulit fail tanpa internet pada telefon atau tablet. Pilih fail, masukkan kata laluan dan simpan fail .cryptcat. Fail lama .crypt3 masih boleh dibuka. Fail dan kata laluan kekal pada peranti ini. Aplikasi tidak memerlukan internet untuk penyulitan atau nyahsulit. Simpan kata laluan dengan baik; kata laluan yang hilang tidak boleh dipulihkan.",
+  "keywords": "penyulitan,luar talian,fail,privasi,kata laluan",
+  "whatsNew": "Sulitkan fail luar talian",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KucingKripto"
+}

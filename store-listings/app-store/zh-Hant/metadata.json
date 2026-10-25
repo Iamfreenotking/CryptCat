@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "zh-Hant",
+  "languageName": "Chinese (Traditional)",
+  "title": "加密貓",
+  "subtitle": "離線檔案加密",
+  "shortDescription": "離線加密和解密檔案。檔案和密碼只保存在你的裝置上。",
+  "promotionalText": "離線加密和解密檔案。檔案和密碼只保存在你的裝置上。",
+  "fullDescription": "加密貓可以在手機或平板上離線加密和解密檔案。選擇檔案，輸入密碼，然後儲存 .cryptcat 檔案。舊的 .crypt3 檔案仍然可以開啟。檔案和密碼只留在本裝置上。加密和解密不需要網路。請妥善保存密碼，加密貓無法找回遺失的密碼。",
+  "keywords": "加密,離線,檔案,隱私,密碼,文件,照片",
+  "whatsNew": "離線加密和解密檔案。檔案和密碼只保存在你的裝置上。",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "加密貓",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

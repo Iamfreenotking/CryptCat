@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "eu-ES",
+  "languageName": "Basque",
+  "title": "KriptoKatua",
+  "subtitle": "Lineaz kanpoko fitxategi-zifratzea",
+  "shortDescription": "Lineaz kanpoko fitxategi-zifratzea",
+  "promotionalText": "Zifratu eta deszifratu fitxategiak internetik gabe. Fitxategiak eta pasahitzak gailuan geratzen dira.",
+  "fullDescription": "KriptoKatuak telefonoan edo tabletan fitxategiak internetik gabe zifratu eta deszifratzeko laguntzen du. Aukeratu fitxategi bat, sartu pasahitza eta gorde .cryptcat fitxategia. .crypt3 fitxategi zaharrak ere ireki daitezke. Fitxategiak eta pasahitzak gailu honetan geratzen dira. Gorde pasahitza ondo; galdutako pasahitza ezin da berreskuratu.",
+  "keywords": "zifratzea,offline,fitxategia,pribatutasuna,pasahitza",
+  "whatsNew": "Lineaz kanpoko fitxategi-zifratzea",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KriptoKatua"
+}

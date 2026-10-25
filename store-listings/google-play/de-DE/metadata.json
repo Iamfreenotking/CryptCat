@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "de-DE",
+  "languageName": "German",
+  "title": "KryptoKatze",
+  "subtitle": "Offline-Dateiverschlüsselung",
+  "shortDescription": "Offline-Dateiverschlüsselung",
+  "promotionalText": "Dateien offline verschlüsseln und entschlüsseln. Dateien und Passwörter bleiben auf deinem Gerät.",
+  "fullDescription": "KryptoKatze hilft dir, Dateien offline auf Smartphone oder Tablet zu verschlüsseln und zu entschlüsseln. Wähle eine Datei, gib ein Passwort ein und speichere eine .cryptcat-Datei. Ältere .crypt3-Dateien lassen sich weiterhin öffnen. Dateien und Passwörter bleiben auf diesem Gerät. Die App braucht kein Internet zum Ver- oder Entschlüsseln. Bewahre dein Passwort gut auf; verlorene Passwörter können nicht wiederhergestellt werden.",
+  "keywords": "verschlüsselung,offline,datei,datenschutz,passwort",
+  "whatsNew": "Offline-Dateiverschlüsselung",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KryptoKatze"
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "gl-ES",
+  "languageName": "Galician",
+  "title": "CriptoGato",
+  "subtitle": "Cifrado de ficheiros offline",
+  "shortDescription": "Cifrado de ficheiros offline",
+  "promotionalText": "Cifra e descifra ficheiros sen internet. Os ficheiros e contrasinais quedan no dispositivo.",
+  "fullDescription": "CriptoGato axuda a cifrar e descifrar ficheiros sen internet no móbil ou tableta. Escolle un ficheiro, introduce un contrasinal e garda un ficheiro .cryptcat. Os antigos .crypt3 tamén se poden abrir. Os ficheiros e contrasinais quedan neste dispositivo. Garda ben o contrasinal; se o perdes non se pode recuperar.",
+  "keywords": "cifrado,offline,ficheiro,privacidade,contrasinal",
+  "whatsNew": "Cifrado de ficheiros offline",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CriptoGato"
+}

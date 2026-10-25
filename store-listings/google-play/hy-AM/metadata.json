@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "hy-AM",
+  "languageName": "Armenian",
+  "title": "ԿրիպտոԿատու",
+  "subtitle": "Ֆայլերի օֆլայն կոդավորում",
+  "shortDescription": "Ֆայլերի օֆլայն կոդավորում",
+  "promotionalText": "Կոդավորեք և բացեք ֆայլերը առանց ինտերնետի։ Ֆայլերն ու գաղտնաբառերը մնում են սարքում։",
+  "fullDescription": "ԿրիպտոԿատուն օգնում է կոդավորել և բացել ֆայլերը առանց ինտերնետի հեռախոսում կամ պլանշետում։ Ընտրեք ֆայլ, մուտքագրեք գաղտնաբառ և պահեք .cryptcat ֆայլ։ Հին .crypt3 ֆայլերը նույնպես կարող են բացվել։ Ֆայլերն ու գաղտնաբառերը մնում են այս սարքում։ Պահեք գաղտնաբառը ապահով․ կորցրած գաղտնաբառը վերականգնել հնարավոր չէ։",
+  "keywords": "կոդավորում,օֆլայն,ֆայլ,գաղտնիություն,գաղտնաբառ",
+  "whatsNew": "Ֆայլերի օֆլայն կոդավորում",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ԿրիպտոԿատու"
+}

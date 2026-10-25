@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "is-IS",
+  "languageName": "Icelandic",
+  "title": "Dulkisa",
+  "subtitle": "Dulkóðun skráa án nets",
+  "shortDescription": "Dulkóðun skráa án nets",
+  "promotionalText": "Dulkóðaðu og opnaðu skrár án internets. Skrár og lykilorð verða áfram í tækinu.",
+  "fullDescription": "Dulkisa hjálpar þér að dulkóða og opna skrár án internets í síma eða spjaldtölvu. Veldu skrá, sláðu inn lykilorð og vistaðu .cryptcat-skrá. Eldri .crypt3-skrár er enn hægt að opna. Skrár og lykilorð verða áfram í þessu tæki. Geymdu lykilorðið vel; glatað lykilorð er ekki hægt að endurheimta.",
+  "keywords": "dulkóðun,offline,skrá,persónuvernd,lykilorð",
+  "whatsNew": "Dulkóðun skráa án nets",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "Dulkisa"
+}

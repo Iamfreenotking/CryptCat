@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "be",
+  "languageName": "Belarusian",
+  "title": "КрыптаКот",
+  "subtitle": "Афлайн-шыфраванне файлаў",
+  "shortDescription": "Афлайн-шыфраванне файлаў",
+  "promotionalText": "Шыфруйце і адкрывайце файлы без інтэрнэту. Файлы і паролі застаюцца на прыладзе.",
+  "fullDescription": "КрыптаКот дапамагае шыфраваць і адкрываць файлы без інтэрнэту на тэлефоне або планшэце. Выберыце файл, увядзіце пароль і захавайце файл .cryptcat. Старыя файлы .crypt3 таксама адкрываюцца. Файлы і паролі застаюцца на гэтай прыладзе. Беражыце пароль; страчаны пароль аднавіць нельга.",
+  "keywords": "шыфраванне,афлайн,файл,прыватнасць,пароль",
+  "whatsNew": "Афлайн-шыфраванне файлаў",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "КрыптаКот"
+}

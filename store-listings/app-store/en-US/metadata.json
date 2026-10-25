@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "en-US",
+  "languageName": "English (U.S.)",
+  "title": "CryptCat",
+  "subtitle": "Offline file encryption",
+  "shortDescription": "Encrypt and decrypt files offline. Files and passwords stay on your device.",
+  "promotionalText": "Encrypt and decrypt files offline. Files and passwords stay on your device.",
+  "fullDescription": "CryptCat helps you encrypt and decrypt files offline on your phone or tablet. Choose a file, enter a password, and save a .cryptcat file. Older .crypt3 files can still be opened. Files and passwords stay on this device. The app does not require internet for encryption or decryption. Keep your password safe. CryptCat cannot recover a lost password.",
+  "keywords": "encryption,offline,file,privacy,password,documents,photos",
+  "whatsNew": "Encrypt and decrypt files offline. Files and passwords stay on your device.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "CryptCat",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

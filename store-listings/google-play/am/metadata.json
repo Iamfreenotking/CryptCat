@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "am",
+  "languageName": "Amharic",
+  "title": "ክሪፕቶድመት",
+  "subtitle": "ከመስመር ውጭ ፋይል ማመስጠር",
+  "shortDescription": "ከመስመር ውጭ ፋይል ማመስጠር",
+  "promotionalText": "ፋይሎችን ያለ ኢንተርኔት ያመስጥሩ እና ይክፈቱ። ፋይሎችና የይለፍ ቃሎች በመሣሪያዎ ላይ ይቆያሉ።",
+  "fullDescription": "ክሪፕቶድመት በስልክ ወይም ታብሌት ላይ ፋይሎችን ያለ ኢንተርኔት ለማመስጠር እና ለመክፈት ይረዳል። ፋይል ይምረጡ፣ የይለፍ ቃል ያስገቡ እና .cryptcat ፋይል ያስቀምጡ። የቀድሞ .crypt3 ፋይሎችም ይከፈታሉ። ፋይሎችና የይለፍ ቃሎች በዚህ መሣሪያ ላይ ይቆያሉ። የይለፍ ቃልዎን በጥንቃቄ ያስቀምጡ፤ ከጠፋ መመለስ አይቻልም።",
+  "keywords": "ማመስጠር,ኦፍላይን,ፋይል,ግላዊነት,የይለፍ ቃል",
+  "whatsNew": "ከመስመር ውጭ ፋይል ማመስጠር",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ክሪፕቶድመት"
+}

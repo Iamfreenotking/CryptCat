@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "vi",
+  "languageName": "Vietnamese",
+  "title": "Mèo Mã Hóa",
+  "subtitle": "Mã hóa tệp ngoại tuyến",
+  "shortDescription": "Mã hóa tệp ngoại tuyến",
+  "promotionalText": "Mã hóa và giải mã tệp không cần internet. Tệp và mật khẩu ở lại trên thiết bị.",
+  "fullDescription": "Mèo Mã Hóa giúp bạn mã hóa và giải mã tệp ngoại tuyến trên điện thoại hoặc máy tính bảng. Chọn tệp, nhập mật khẩu rồi lưu tệp .cryptcat. Tệp cũ .crypt3 vẫn có thể mở. Tệp và mật khẩu ở lại trên thiết bị này. Ứng dụng không cần internet để mã hóa hoặc giải mã. Hãy giữ mật khẩu cẩn thận; mật khẩu bị mất không thể khôi phục.",
+  "keywords": "mã hóa,ngoại tuyến,tệp,riêng tư,mật khẩu",
+  "whatsNew": "Mã hóa tệp ngoại tuyến",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "Mèo Mã Hóa"
+}

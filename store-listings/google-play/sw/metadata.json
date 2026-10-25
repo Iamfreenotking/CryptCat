@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "sw",
+  "languageName": "Swahili",
+  "title": "PakaKripto",
+  "subtitle": "Usimbaji faili bila intaneti",
+  "shortDescription": "Usimbaji faili bila intaneti",
+  "promotionalText": "Simba na fungua faili bila intaneti. Faili na nywila hubaki kwenye kifaa chako.",
+  "fullDescription": "PakaKripto husaidia kusimba na kufungua faili bila intaneti kwenye simu au tableti. Chagua faili, weka nywila na hifadhi faili la .cryptcat. Faili za zamani .crypt3 bado zinaweza kufunguliwa. Faili na nywila hubaki kwenye kifaa hiki. Hifadhi nywila yako vizuri; nywila iliyopotea haiwezi kurejeshwa.",
+  "keywords": "usimbaji,oflaini,faili,faragha,nywila",
+  "whatsNew": "Usimbaji faili bila intaneti",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "PakaKripto"
+}

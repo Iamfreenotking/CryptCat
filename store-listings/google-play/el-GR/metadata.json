@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "el-GR",
+  "languageName": "Greek",
+  "title": "ΚρυπτοΓάτα",
+  "subtitle": "Κρυπτογράφηση εκτός σύνδεσης",
+  "shortDescription": "Κρυπτογράφηση εκτός σύνδεσης",
+  "promotionalText": "Κρυπτογραφήστε και αποκρυπτογραφήστε αρχεία χωρίς internet. Τα αρχεία και οι κωδικοί μένουν στη συσκευή.",
+  "fullDescription": "Το ΚρυπτοΓάτα βοηθά να κρυπτογραφείτε και να αποκρυπτογραφείτε αρχεία χωρίς internet σε τηλέφωνο ή tablet. Επιλέξτε αρχείο, βάλτε κωδικό και αποθηκεύστε αρχείο .cryptcat. Τα παλιά αρχεία .crypt3 ανοίγουν ακόμη. Τα αρχεία και οι κωδικοί μένουν σε αυτή τη συσκευή. Η εφαρμογή δεν χρειάζεται internet για τη λειτουργία της. Κρατήστε τον κωδικό σας ασφαλή· δεν μπορεί να ανακτηθεί αν χαθεί.",
+  "keywords": "κρυπτογράφηση,offline,αρχεία,ιδιωτικότητα,κωδικός",
+  "whatsNew": "Κρυπτογράφηση εκτός σύνδεσης",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ΚρυπτοΓάτα"
+}

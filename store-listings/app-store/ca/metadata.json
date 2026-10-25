@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "ca",
+  "languageName": "Catalan",
+  "title": "CriptoGat",
+  "subtitle": "Xifrat de fitxers offline",
+  "shortDescription": "Xifra i desxifra fitxers sense internet. Els fitxers i les contrasenyes es queden al dispositiu.",
+  "promotionalText": "Xifra i desxifra fitxers sense internet. Els fitxers i les contrasenyes es queden al dispositiu.",
+  "fullDescription": "CriptoGat t’ajuda a xifrar i desxifrar fitxers sense internet al mòbil o a la tauleta. Tria un fitxer, introdueix una contrasenya i desa un fitxer .cryptcat. També pots obrir fitxers antics .crypt3. Els fitxers i les contrasenyes es queden en aquest dispositiu. L’app no necessita internet per xifrar ni desxifrar. Guarda bé la contrasenya: CriptoGat no pot recuperar una contrasenya perduda.",
+  "keywords": "xifrat,offline,fitxer,privadesa,contrasenya",
+  "whatsNew": "Xifra i desxifra fitxers sense internet. Els fitxers i les contrasenyes es queden al dispositiu.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "CriptoGat",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

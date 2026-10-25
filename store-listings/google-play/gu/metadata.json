@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "gu",
+  "languageName": "Gujarati",
+  "title": "ક્રિપ્ટોબિલાડી",
+  "subtitle": "ઓફલાઇન ફાઇલ એન્ક્રિપ્શન",
+  "shortDescription": "ઓફલાઇન ફાઇલ એન્ક્રિપ્શન",
+  "promotionalText": "ઇન્ટરનેટ વગર ફાઇલ એન્ક્રિપ્ટ અને ડિક્રિપ્ટ કરો. ફાઇલ અને પાસવર્ડ તમારા ઉપકરણમાં જ રહે છે.",
+  "fullDescription": "ક્રિપ્ટોબિલાડી ફોન અથવા ટેબ્લેટ પર ઇન્ટરનેટ વગર ફાઇલ એન્ક્રિપ્ટ અને ડિક્રિપ્ટ કરવામાં મદદ કરે છે. ફાઇલ પસંદ કરો, પાસવર્ડ દાખલ કરો અને .cryptcat ફાઇલ સાચવો. જૂની .crypt3 ફાઇલ પણ ખોલી શકાય છે. ફાઇલ અને પાસવર્ડ આ ઉપકરણમાં જ રહે છે. એન્ક્રિપ્શન અથવા ડિક્રિપ્શન માટે ઇન્ટરનેટ જરૂરી નથી. પાસવર્ડ સાચવી રાખો; ખોવાયેલો પાસવર્ડ પાછો મેળવી શકાતો નથી.",
+  "keywords": "એન્ક્રિપ્શન,ઓફલાઇન,ફાઇલ,ગોપનીયતા,પાસવર્ડ",
+  "whatsNew": "ઓફલાઇન ફાઇલ એન્ક્રિપ્શન",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ક્રિપ્ટોબિલાડી"
+}

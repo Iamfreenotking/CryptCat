@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "af",
+  "languageName": "Afrikaans",
+  "title": "CryptCat",
+  "subtitle": "Vanlyn lêerkodering",
+  "shortDescription": "Vanlyn lêerkodering",
+  "promotionalText": "Kodeer en ontsluit lêers vanlyn. Lêers en wagwoorde bly op jou toestel.",
+  "fullDescription": "CryptCat help jou om lêers vanlyn op jou foon of tablet te kodeer en te ontsluit. Kies ’n lêer, voer ’n wagwoord in en stoor ’n .cryptcat-lêer. Ouer .crypt3-lêers kan steeds oopgemaak word. Lêers en wagwoorde bly op hierdie toestel. Die app het nie internet nodig vir kodering of ontsluiting nie. Hou jou wagwoord veilig; ’n verlore wagwoord kan nie herstel word nie.",
+  "keywords": "kodering,vanlyn,lêer,privaatheid,wagwoord",
+  "whatsNew": "Vanlyn lêerkodering",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CryptCat"
+}

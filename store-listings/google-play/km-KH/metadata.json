@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "km-KH",
+  "languageName": "Khmer",
+  "title": "ឆ្មាគ្រីបតូ",
+  "subtitle": "អ៊ិនគ្រីបឯកសារអុហ្វឡាញ",
+  "shortDescription": "អ៊ិនគ្រីបឯកសារអុហ្វឡាញ",
+  "promotionalText": "អ៊ិនគ្រីប និងបើកឯកសារដោយមិនចាំបាច់មានអ៊ីនធឺណិត។ ឯកសារ និងពាក្យសម្ងាត់នៅលើឧបករណ៍។",
+  "fullDescription": "ឆ្មាគ្រីបតូជួយអ៊ិនគ្រីប និងបើកឯកសារដោយមិនចាំបាច់មានអ៊ីនធឺណិតលើទូរស័ព្ទ ឬថេប្លេត។ ជ្រើសឯកសារ បញ្ចូលពាក្យសម្ងាត់ ហើយរក្សាទុកជា .cryptcat។ ឯកសារ .crypt3 ចាស់ក៏នៅតែអាចបើកបាន។ សូមរក្សាពាក្យសម្ងាត់ឱ្យល្អ ព្រោះបើបាត់មិនអាចយកមកវិញបានទេ។",
+  "keywords": "អ៊ិនគ្រីប,អុហ្វឡាញ,ឯកសារ,ឯកជនភាព,ពាក្យសម្ងាត់",
+  "whatsNew": "អ៊ិនគ្រីបឯកសារអុហ្វឡាញ",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ឆ្មាគ្រីបតូ"
+}

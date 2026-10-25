@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "pt-BR",
+  "languageName": "Portuguese (Brazil)",
+  "title": "CriptoGato",
+  "subtitle": "Criptografia offline",
+  "shortDescription": "Criptografe e descriptografe arquivos offline. Arquivos e senhas ficam no dispositivo.",
+  "promotionalText": "Criptografe e descriptografe arquivos offline. Arquivos e senhas ficam no dispositivo.",
+  "fullDescription": "CriptoGato ajuda a criptografar e descriptografar arquivos offline no celular ou tablet. Escolha um arquivo, digite uma senha e salve um arquivo .cryptcat. Arquivos antigos .crypt3 ainda podem ser abertos. Arquivos e senhas ficam neste dispositivo. O app não precisa de internet para criptografar ou descriptografar. Guarde bem a senha; uma senha perdida não pode ser recuperada.",
+  "keywords": "criptografia,offline,arquivo,privacidade,senha",
+  "whatsNew": "Criptografe e descriptografe arquivos offline. Arquivos e senhas ficam no dispositivo.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "CriptoGato",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "te",
+  "languageName": "Telugu",
+  "title": "క్రిప్టోపిల్లి",
+  "subtitle": "ఆఫ్‌లైన్ ఫైల్ ఎన్‌క్రిప్షన్",
+  "shortDescription": "ఇంటర్నెట్ లేకుండా ఫైళ్లను ఎన్‌క్రిప్ట్ మరియు డిక్రిప్ట్ చేయండి. ఫైళ్లు, పాస్‌వర్డ్‌లు మీ పరికరంలోనే ఉంటాయి.",
+  "promotionalText": "ఇంటర్నెట్ లేకుండా ఫైళ్లను ఎన్‌క్రిప్ట్ మరియు డిక్రిప్ట్ చేయండి. ఫైళ్లు, పాస్‌వర్డ్‌లు మీ పరికరంలోనే ఉంటాయి.",
+  "fullDescription": "క్రిప్టోపిల్లి ఫోన్ లేదా టాబ్లెట్‌లో ఇంటర్నెట్ లేకుండా ఫైళ్లను ఎన్‌క్రిప్ట్ మరియు డిక్రిప్ట్ చేయడానికి సహాయపడుతుంది. ఫైల్ ఎంచుకుని, పాస్‌వర్డ్ ఇవ్వండి, .cryptcat ఫైల్‌గా సేవ్ చేయండి. పాత .crypt3 ఫైళ్లను కూడా తెరవచ్చు. ఫైళ్లు మరియు పాస్‌వర్డ్‌లు ఈ పరికరంలోనే ఉంటాయి. పాస్‌వర్డ్‌ను జాగ్రత్తగా ఉంచండి; పోయిన పాస్‌వర్డ్ తిరిగి రాదు.",
+  "keywords": "ఎన్‌క్రిప్షన్,ఆఫ్‌లైన్,ఫైల్,గోప్యత,పాస్‌వర్డ్",
+  "whatsNew": "ఇంటర్నెట్ లేకుండా ఫైళ్లను ఎన్‌క్రిప్ట్ మరియు డిక్రిప్ట్ చేయండి. ఫైళ్లు, పాస్‌వర్డ్‌లు మీ పరికరంలోనే ఉంటాయి.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "క్రిప్టోపిల్లి",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

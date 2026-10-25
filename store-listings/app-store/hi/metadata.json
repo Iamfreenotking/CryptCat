@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "hi",
+  "languageName": "Hindi",
+  "title": "क्रिप्टकैट",
+  "subtitle": "ऑफलाइन फाइल एन्क्रिप्शन",
+  "shortDescription": "बिना इंटरनेट फाइल एन्क्रिप्ट और डिक्रिप्ट करें। फाइल और पासवर्ड आपके डिवाइस पर रहते हैं।",
+  "promotionalText": "बिना इंटरनेट फाइल एन्क्रिप्ट और डिक्रिप्ट करें। फाइल और पासवर्ड आपके डिवाइस पर रहते हैं।",
+  "fullDescription": "क्रिप्टकैट फोन या टैबलेट पर बिना इंटरनेट फाइल एन्क्रिप्ट और डिक्रिप्ट करने में मदद करता है। फाइल चुनें, पासवर्ड डालें और .cryptcat फाइल सेव करें। पुरानी .crypt3 फाइलें भी खुलती रहेंगी। फाइल और पासवर्ड इसी डिवाइस पर रहते हैं। एन्क्रिप्शन या डिक्रिप्शन के लिए इंटरनेट की जरूरत नहीं है। अपना पासवर्ड सुरक्षित रखें; खोया पासवर्ड वापस नहीं मिल सकता।",
+  "keywords": "एन्क्रिप्शन,ऑफलाइन,फाइल,निजता,पासवर्ड",
+  "whatsNew": "बिना इंटरनेट फाइल एन्क्रिप्ट और डिक्रिप्ट करें। फाइल और पासवर्ड आपके डिवाइस पर रहते हैं।",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "क्रिप्टकैट",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

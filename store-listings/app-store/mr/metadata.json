@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "mr",
+  "languageName": "Marathi",
+  "title": "क्रिप्टोमांजर",
+  "subtitle": "ऑफलाइन फाइल एन्क्रिप्शन",
+  "shortDescription": "इंटरनेटशिवाय फाइल एन्क्रिप्ट आणि डिक्रिप्ट करा. फाइल आणि पासवर्ड तुमच्या डिव्हाइसवरच राहतात.",
+  "promotionalText": "इंटरनेटशिवाय फाइल एन्क्रिप्ट आणि डिक्रिप्ट करा. फाइल आणि पासवर्ड तुमच्या डिव्हाइसवरच राहतात.",
+  "fullDescription": "क्रिप्टोमांजर फोन किंवा टॅबलेटवर इंटरनेटशिवाय फाइल एन्क्रिप्ट आणि डिक्रिप्ट करण्यात मदत करते. फाइल निवडा, पासवर्ड टाका आणि .cryptcat फाइल सेव्ह करा. जुन्या .crypt3 फाइल्सही उघडता येतात. फाइल आणि पासवर्ड याच डिव्हाइसवर राहतात. पासवर्ड सुरक्षित ठेवा; हरवलेला पासवर्ड परत मिळू शकत नाही.",
+  "keywords": "एन्क्रिप्शन,ऑफलाइन,फाइल,गोपनीयता,पासवर्ड",
+  "whatsNew": "इंटरनेटशिवाय फाइल एन्क्रिप्ट आणि डिक्रिप्ट करा. फाइल आणि पासवर्ड तुमच्या डिव्हाइसवरच राहतात.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "क्रिप्टोमांजर",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

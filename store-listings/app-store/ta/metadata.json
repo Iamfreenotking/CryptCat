@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "ta",
+  "languageName": "Tamil",
+  "title": "கிரிப்டோபூனை",
+  "subtitle": "ஆஃப்லைன் கோப்பு குறியாக்கம்",
+  "shortDescription": "இணையம் இல்லாமல் கோப்புகளை குறியாக்கவும் திறக்கவும். கோப்புகளும் கடவுச்சொற்களும் உங்கள் சாதனத்திலேயே இருக்கும்.",
+  "promotionalText": "இணையம் இல்லாமல் கோப்புகளை குறியாக்கவும் திறக்கவும். கோப்புகளும் கடவுச்சொற்களும் உங்கள் சாதனத்திலேயே இருக்கும்.",
+  "fullDescription": "கிரிப்டோபூனை கைபேசி அல்லது டேப்லெட்டில் இணையம் இல்லாமல் கோப்புகளை குறியாக்கவும் திறக்கவும் உதவுகிறது. கோப்பைத் தேர்ந்தெடுத்து, கடவுச்சொல் கொடுத்து, .cryptcat கோப்பாக சேமிக்கவும். பழைய .crypt3 கோப்புகளையும் திறக்கலாம். கோப்புகளும் கடவுச்சொற்களும் இந்த சாதனத்திலேயே இருக்கும். கடவுச்சொல்லை பாதுகாப்பாக வைத்திருங்கள்; இழந்தால் மீட்க முடியாது.",
+  "keywords": "குறியாக்கம்,ஆஃப்லைன்,கோப்பு,தனியுரிமை,கடவுச்சொல்",
+  "whatsNew": "இணையம் இல்லாமல் கோப்புகளை குறியாக்கவும் திறக்கவும். கோப்புகளும் கடவுச்சொற்களும் உங்கள் சாதனத்திலேயே இருக்கும்.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "கிரிப்டோபூனை",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

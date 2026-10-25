@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "sq",
+  "languageName": "Albanian",
+  "title": "MacjaKripto",
+  "subtitle": "Kriptim skedarësh offline",
+  "shortDescription": "Kriptim skedarësh offline",
+  "promotionalText": "Kripto dhe hap skedarë pa internet. Skedarët dhe fjalëkalimet mbeten në pajisjen tënde.",
+  "fullDescription": "MacjaKripto të ndihmon të kriptosh dhe të hapësh skedarë pa internet në telefon ose tablet. Zgjidh një skedar, vendos fjalëkalimin dhe ruaj një skedar .cryptcat. Skedarët e vjetër .crypt3 mund të hapen ende. Skedarët dhe fjalëkalimet mbeten në këtë pajisje. Aplikacioni nuk kërkon internet. Ruaje mirë fjalëkalimin; fjalëkalimi i humbur nuk rikuperohet.",
+  "keywords": "kriptim,offline,skedar,privatësi,fjalëkalim",
+  "whatsNew": "Kriptim skedarësh offline",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "MacjaKripto"
+}

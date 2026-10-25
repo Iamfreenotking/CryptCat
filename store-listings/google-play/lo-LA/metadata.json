@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "lo-LA",
+  "languageName": "Lao",
+  "title": "ແມວຄຣິບໂຕ",
+  "subtitle": "ເຂົ້າລະຫັດໄຟລ໌ອອບລາຍ",
+  "shortDescription": "ເຂົ້າລະຫັດໄຟລ໌ອອບລາຍ",
+  "promotionalText": "ເຂົ້າລະຫັດ ແລະ ເປີດໄຟລ໌ໂດຍບໍ່ໃຊ້ອິນເຕີເນັດ. ໄຟລ໌ ແລະ ລະຫັດຜ່ານຢູ່ໃນອຸປະກອນ.",
+  "fullDescription": "ແມວຄຣິບໂຕຊ່ວຍເຂົ້າລະຫັດ ແລະ ເປີດໄຟລ໌ໂດຍບໍ່ໃຊ້ອິນເຕີເນັດໃນໂທລະສັບ ຫຼື ແທັບເລັດ. ເລືອກໄຟລ໌, ໃສ່ລະຫັດຜ່ານ ແລະ ບັນທຶກເປັນ .cryptcat. ໄຟລ໌ .crypt3 ເກົ່າຍັງເປີດໄດ້. ເກັບລະຫັດຜ່ານໃຫ້ດີ; ຖ້າຫາຍແລ້ວກູ້ຄືນບໍ່ໄດ້.",
+  "keywords": "ເຂົ້າລະຫັດ,ອອບລາຍ,ໄຟລ໌,ຄວາມສ່ວນຕົວ,ລະຫັດຜ່ານ",
+  "whatsNew": "ເຂົ້າລະຫັດໄຟລ໌ອອບລາຍ",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ແມວຄຣິບໂຕ"
+}

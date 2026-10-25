@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "or",
+  "languageName": "Odia",
+  "title": "କ୍ରିପ୍ଟୋବିଲେଇ",
+  "subtitle": "ଅଫଲାଇନ ଫାଇଲ ଏନକ୍ରିପ୍ସନ",
+  "shortDescription": "ଇଣ୍ଟରନେଟ ବିନା ଫାଇଲ ଏନକ୍ରିପ୍ଟ ଓ ଡିକ୍ରିପ୍ଟ କରନ୍ତୁ। ଫାଇଲ ଓ ପାସୱାର୍ଡ ଡିଭାଇସରେ ରହେ।",
+  "promotionalText": "ଇଣ୍ଟରନେଟ ବିନା ଫାଇଲ ଏନକ୍ରିପ୍ଟ ଓ ଡିକ୍ରିପ୍ଟ କରନ୍ତୁ। ଫାଇଲ ଓ ପାସୱାର୍ଡ ଡିଭାଇସରେ ରହେ।",
+  "fullDescription": "କ୍ରିପ୍ଟୋବିଲେଇ ଫୋନ କିମ୍ବା ଟାବଲେଟରେ ଇଣ୍ଟରନେଟ ବିନା ଫାଇଲ ଏନକ୍ରିପ୍ଟ ଓ ଡିକ୍ରିପ୍ଟ କରିବାରେ ସହାୟତା କରେ। ଫାଇଲ ବାଛନ୍ତୁ, ପାସୱାର୍ଡ ଦିଅନ୍ତୁ ଏବଂ .cryptcat ଫାଇଲ ସେଭ କରନ୍ତୁ। ପୁରୁଣା .crypt3 ଫାଇଲ ମଧ୍ୟ ଖୋଲିବ। ପାସୱାର୍ଡ ସୁରକ୍ଷିତ ରଖନ୍ତୁ; ହରାଇଗଲେ ଫେରାଇ ଆଣିହେବ ନାହିଁ।",
+  "keywords": "ଏନକ୍ରିପ୍ସନ,ଅଫଲାଇନ,ଫାଇଲ,ଗୋପନୀୟତା,ପାସୱାର୍ଡ",
+  "whatsNew": "ଇଣ୍ଟରନେଟ ବିନା ଫାଇଲ ଏନକ୍ରିପ୍ଟ ଓ ଡିକ୍ରିପ୍ଟ କରନ୍ତୁ। ଫାଇଲ ଓ ପାସୱାର୍ଡ ଡିଭାଇସରେ ରହେ।",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "କ୍ରିପ୍ଟୋବିଲେଇ",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

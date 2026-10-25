@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "kn",
+  "languageName": "Kannada",
+  "title": "ಕ್ರಿಪ್ಟೋಬೆಕ್ಕು",
+  "subtitle": "ಆಫ್‌ಲೈನ್ ಫೈಲ್ ಎನ್ಕ್ರಿಪ್ಷನ್",
+  "shortDescription": "ಇಂಟರ್‌ನೆಟ್ ಇಲ್ಲದೆ ಫೈಲ್ ಎನ್ಕ್ರಿಪ್ಟ್ ಮತ್ತು ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡಿ. ಫೈಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಸಾಧನದಲ್ಲೇ ಇರುತ್ತವೆ.",
+  "promotionalText": "ಇಂಟರ್‌ನೆಟ್ ಇಲ್ಲದೆ ಫೈಲ್ ಎನ್ಕ್ರಿಪ್ಟ್ ಮತ್ತು ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡಿ. ಫೈಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಸಾಧನದಲ್ಲೇ ಇರುತ್ತವೆ.",
+  "fullDescription": "ಕ್ರಿಪ್ಟೋಬೆಕ್ಕು ಫೋನ್ ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್‌ನಲ್ಲಿ ಇಂಟರ್‌ನೆಟ್ ಇಲ್ಲದೆ ಫೈಲ್‌ಗಳನ್ನು ಎನ್ಕ್ರಿಪ್ಟ್ ಮತ್ತು ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ, ಪಾಸ್‌ವರ್ಡ್ ನೀಡಿ ಮತ್ತು .cryptcat ಫೈಲ್ ಉಳಿಸಿ. ಹಳೆಯ .crypt3 ಫೈಲ್‌ಗಳನ್ನೂ ತೆರೆಯಬಹುದು. ಫೈಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಈ ಸಾಧನದಲ್ಲೇ ಇರುತ್ತವೆ. ಪಾಸ್‌ವರ್ಡ್ ಸುರಕ್ಷಿತವಾಗಿ ಇಡಿ; ಕಳೆದುಹೋದ ಪಾಸ್‌ವರ್ಡ್ ಮರಳಿ ಸಿಗುವುದಿಲ್ಲ.",
+  "keywords": "ಎನ್ಕ್ರಿಪ್ಷನ್,ಆಫ್‌ಲೈನ್,ಫೈಲ್,ಗೌಪ್ಯತೆ,ಪಾಸ್‌ವರ್ಡ್",
+  "whatsNew": "ಇಂಟರ್‌ನೆಟ್ ಇಲ್ಲದೆ ಫೈಲ್ ಎನ್ಕ್ರಿಪ್ಟ್ ಮತ್ತು ಡಿಕ್ರಿಪ್ಟ್ ಮಾಡಿ. ಫೈಲ್ ಮತ್ತು ಪಾಸ್‌ವರ್ಡ್ ಸಾಧನದಲ್ಲೇ ಇರುತ್ತವೆ.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "ಕ್ರಿಪ್ಟೋಬೆಕ್ಕು",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

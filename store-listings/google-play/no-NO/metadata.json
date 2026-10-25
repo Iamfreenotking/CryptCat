@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "no-NO",
+  "languageName": "Norwegian",
+  "title": "KryptoKatt",
+  "subtitle": "Offline filkryptering",
+  "shortDescription": "Offline filkryptering",
+  "promotionalText": "Krypter og dekrypter filer uten internett. Filer og passord blir på enheten din.",
+  "fullDescription": "KryptoKatt hjelper deg å kryptere og dekryptere filer uten internett på telefon eller nettbrett. Velg en fil, skriv inn et passord og lagre en .cryptcat-fil. Eldre .crypt3-filer kan fortsatt åpnes. Filer og passord blir på denne enheten. Appen trenger ikke internett for kryptering eller dekryptering. Ta vare på passordet; et mistet passord kan ikke gjenopprettes.",
+  "keywords": "kryptering,offline,fil,personvern,passord",
+  "whatsNew": "Offline filkryptering",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KryptoKatt"
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "pa",
+  "languageName": "Punjabi",
+  "title": "ਕ੍ਰਿਪਟੋਬਿੱਲੀ",
+  "subtitle": "ਆਫਲਾਈਨ ਫਾਈਲ ਇਨਕ੍ਰਿਪਸ਼ਨ",
+  "shortDescription": "ਆਫਲਾਈਨ ਫਾਈਲ ਇਨਕ੍ਰਿਪਸ਼ਨ",
+  "promotionalText": "ਇੰਟਰਨੈੱਟ ਬਿਨਾਂ ਫਾਈਲ ਇਨਕ੍ਰਿਪਟ ਅਤੇ ਡਿਕ੍ਰਿਪਟ ਕਰੋ। ਫਾਈਲਾਂ ਅਤੇ ਪਾਸਵਰਡ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਤੇ ਰਹਿੰਦੇ ਹਨ।",
+  "fullDescription": "ਕ੍ਰਿਪਟੋਬਿੱਲੀ ਫੋਨ ਜਾਂ ਟੈਬਲੈਟ ਤੇ ਇੰਟਰਨੈੱਟ ਬਿਨਾਂ ਫਾਈਲਾਂ ਇਨਕ੍ਰਿਪਟ ਅਤੇ ਡਿਕ੍ਰਿਪਟ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦੀ ਹੈ। ਫਾਈਲ ਚੁਣੋ, ਪਾਸਵਰਡ ਦਿਓ ਅਤੇ .cryptcat ਫਾਈਲ ਸੇਵ ਕਰੋ। ਪੁਰਾਣੀਆਂ .crypt3 ਫਾਈਲਾਂ ਵੀ ਖੁੱਲ ਸਕਦੀਆਂ ਹਨ। ਫਾਈਲਾਂ ਅਤੇ ਪਾਸਵਰਡ ਇਸ ਡਿਵਾਈਸ ਤੇ ਹੀ ਰਹਿੰਦੇ ਹਨ। ਪਾਸਵਰਡ ਸੰਭਾਲ ਕੇ ਰੱਖੋ; ਗੁੰਮ ਪਾਸਵਰਡ ਮੁੜ ਨਹੀਂ ਮਿਲਦਾ।",
+  "keywords": "ਇਨਕ੍ਰਿਪਸ਼ਨ,ਆਫਲਾਈਨ,ਫਾਈਲ,ਨਿੱਜਤਾ,ਪਾਸਵਰਡ",
+  "whatsNew": "ਆਫਲਾਈਨ ਫਾਈਲ ਇਨਕ੍ਰਿਪਸ਼ਨ",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "ਕ੍ਰਿਪਟੋਬਿੱਲੀ"
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "th",
+  "languageName": "Thai",
+  "title": "แมวคริปโต",
+  "subtitle": "เข้ารหัสไฟล์ออฟไลน์",
+  "shortDescription": "เข้ารหัสไฟล์ออฟไลน์",
+  "promotionalText": "เข้ารหัสและถอดรหัสไฟล์โดยไม่ใช้อินเทอร์เน็ต ไฟล์และรหัสผ่านอยู่บนอุปกรณ์ของคุณ",
+  "fullDescription": "แมวคริปโตช่วยเข้ารหัสและถอดรหัสไฟล์แบบออฟไลน์บนโทรศัพท์หรือแท็บเล็ต เลือกไฟล์ ใส่รหัสผ่าน แล้วบันทึกเป็นไฟล์ .cryptcat ไฟล์เก่า .crypt3 ยังเปิดได้ ไฟล์และรหัสผ่านอยู่บนอุปกรณ์นี้ แอปไม่ต้องใช้อินเทอร์เน็ตสำหรับการเข้ารหัสหรือถอดรหัส โปรดเก็บรหัสผ่านให้ดี เพราะกู้คืนไม่ได้หากลืม",
+  "keywords": "เข้ารหัส,ออฟไลน์,ไฟล์,ความเป็นส่วนตัว,รหัสผ่าน",
+  "whatsNew": "เข้ารหัสไฟล์ออฟไลน์",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "แมวคริปโต"
+}

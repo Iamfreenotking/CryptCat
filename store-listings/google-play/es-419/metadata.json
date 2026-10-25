@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "es-419",
+  "languageName": "Spanish (Latin America)",
+  "title": "CriptoGato",
+  "subtitle": "Cifrado sin conexión",
+  "shortDescription": "Cifrado sin conexión",
+  "promotionalText": "Cifra y descifra archivos sin internet. Tus archivos y contraseñas se quedan en el dispositivo.",
+  "fullDescription": "CriptoGato te ayuda a cifrar y descifrar archivos sin internet en tu teléfono o tablet. Elige un archivo, escribe una contraseña y guarda un archivo .cryptcat. Los archivos antiguos .crypt3 se pueden seguir abriendo. Tus archivos y contraseñas se quedan en este dispositivo. La app no necesita internet para cifrar ni descifrar. Guarda bien tu contraseña; no se puede recuperar si la pierdes.",
+  "keywords": "cifrado,sin conexión,archivo,privacidad,contraseña",
+  "whatsNew": "Cifrado sin conexión",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CriptoGato"
+}

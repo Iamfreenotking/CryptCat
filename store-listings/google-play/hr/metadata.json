@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "hr",
+  "languageName": "Croatian",
+  "title": "KriptoMačka",
+  "subtitle": "Izvanmrežno šifriranje",
+  "shortDescription": "Izvanmrežno šifriranje",
+  "promotionalText": "Šifrirajte i dešifrirajte datoteke bez interneta. Datoteke i lozinke ostaju na uređaju.",
+  "fullDescription": "KriptoMačka pomaže šifrirati i dešifrirati datoteke bez interneta na telefonu ili tabletu. Odaberite datoteku, unesite lozinku i spremite .cryptcat datoteku. Starije .crypt3 datoteke i dalje se mogu otvoriti. Datoteke i lozinke ostaju na ovom uređaju. Aplikaciji ne treba internet za šifriranje ni dešifriranje. Čuvajte lozinku jer je aplikacija ne može vratiti ako je izgubite.",
+  "keywords": "šifriranje,offline,datoteka,privatnost,lozinka",
+  "whatsNew": "Izvanmrežno šifriranje",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KriptoMačka"
+}

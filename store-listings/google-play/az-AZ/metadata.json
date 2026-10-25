@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "az-AZ",
+  "languageName": "Azerbaijani",
+  "title": "KriptoPişik",
+  "subtitle": "Oflayn fayl şifrələmə",
+  "shortDescription": "Oflayn fayl şifrələmə",
+  "promotionalText": "Faylları internet olmadan şifrələyin və açın. Fayllar və parollar cihazınızda qalır.",
+  "fullDescription": "KriptoPişik telefonda və ya planşetdə faylları internet olmadan şifrələməyə və açmağa kömək edir. Fayl seçin, parol daxil edin və .cryptcat faylı kimi saxlayın. Köhnə .crypt3 faylları da açılır. Fayllar və parollar bu cihazda qalır. Parolu təhlükəsiz saxlayın; itirilmiş parol bərpa olunmur.",
+  "keywords": "şifrələmə,oflayn,fayl,məxfilik,parol",
+  "whatsNew": "Oflayn fayl şifrələmə",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KriptoPişik"
+}

@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "he",
+  "languageName": "Hebrew",
+  "title": "קריפטו חתול",
+  "subtitle": "הצפנת קבצים אופליין",
+  "shortDescription": "הצפנה ופענוח של קבצים ללא אינטרנט. הקבצים והסיסמאות נשארים במכשיר.",
+  "promotionalText": "הצפנה ופענוח של קבצים ללא אינטרנט. הקבצים והסיסמאות נשארים במכשיר.",
+  "fullDescription": "קריפטו חתול עוזר להצפין ולפענח קבצים ללא אינטרנט בטלפון או בטאבלט. בחרו קובץ, הזינו סיסמה ושמרו קובץ .cryptcat. ניתן עדיין לפתוח קבצי .crypt3 ישנים. הקבצים והסיסמאות נשארים במכשיר הזה. האפליקציה לא צריכה אינטרנט להצפנה או לפענוח. שמרו היטב את הסיסמה; אי אפשר לשחזר סיסמה שאבדה.",
+  "keywords": "הצפנה,אופליין,קובץ,פרטיות,סיסמה",
+  "whatsNew": "הצפנה ופענוח של קבצים ללא אינטרנט. הקבצים והסיסמאות נשארים במכשיר.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "קריפטו חתול",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

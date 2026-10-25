@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "rm",
+  "languageName": "Romansh",
+  "title": "CryptCat",
+  "subtitle": "Criptaziun da datotecas offline",
+  "shortDescription": "Criptaziun da datotecas offline",
+  "promotionalText": "Criptescha e decriptescha datotecas senza internet. Datotecas e pleds-clav restan sin tes apparat.",
+  "fullDescription": "CryptCat gida a criptar e decriptar datotecas senza internet sin telefon u tablet. Tscherna ina datoteca, endatescha in pled-clav e memorisescha ina datoteca .cryptcat. Datotecas veglias .crypt3 pon anc vegnir avertas. Datotecas e pleds-clav restan sin quest apparat. Tegna bain tes pled-clav; in pled-clav pers na po betg vegnir restaurà.",
+  "keywords": "criptaziun,offline,datoteca,privacitad,pled-clav",
+  "whatsNew": "Criptaziun da datotecas offline",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CryptCat"
+}

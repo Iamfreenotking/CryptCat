@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "mn-MN",
+  "languageName": "Mongolian",
+  "title": "КриптоМуур",
+  "subtitle": "Офлайн файл шифрлэлт",
+  "shortDescription": "Офлайн файл шифрлэлт",
+  "promotionalText": "Интернетгүйгээр файл шифрлэж, нээнэ. Файл ба нууц үг төхөөрөмж дээр үлдэнэ.",
+  "fullDescription": "КриптоМуур нь утас эсвэл таблет дээр интернетгүйгээр файл шифрлэж, нээхэд тусална. Файл сонгоод, нууц үг оруулж, .cryptcat файл болгон хадгална. Хуучин .crypt3 файлуудыг мөн нээж болно. Файл ба нууц үг энэ төхөөрөмж дээр үлдэнэ. Нууц үгээ сайн хадгал; алдсан нууц үгийг сэргээх боломжгүй.",
+  "keywords": "шифрлэлт,офлайн,файл,нууцлал,нууц үг",
+  "whatsNew": "Офлайн файл шифрлэлт",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "КриптоМуур"
+}

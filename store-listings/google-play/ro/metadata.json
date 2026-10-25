@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ro",
+  "languageName": "Romanian",
+  "title": "CriptoPisică",
+  "subtitle": "Criptare fișiere offline",
+  "shortDescription": "Criptare fișiere offline",
+  "promotionalText": "Criptează și decriptează fișiere offline. Fișierele și parolele rămân pe dispozitiv.",
+  "fullDescription": "CriptoPisică te ajută să criptezi și să decriptezi fișiere offline pe telefon sau tabletă. Alege un fișier, introdu o parolă și salvează un fișier .cryptcat. Fișierele vechi .crypt3 pot fi deschise în continuare. Fișierele și parolele rămân pe acest dispozitiv. Aplicația nu are nevoie de internet pentru criptare sau decriptare. Păstrează parola în siguranță; nu poate fi recuperată dacă se pierde.",
+  "keywords": "criptare,offline,fișier,confidențialitate,parolă",
+  "whatsNew": "Criptare fișiere offline",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "CriptoPisică"
+}

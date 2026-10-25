@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "no",
+  "languageName": "Norwegian",
+  "title": "KryptoKatt",
+  "subtitle": "Offline filkryptering",
+  "shortDescription": "Krypter og dekrypter filer uten internett. Filer og passord blir på enheten din.",
+  "promotionalText": "Krypter og dekrypter filer uten internett. Filer og passord blir på enheten din.",
+  "fullDescription": "KryptoKatt hjelper deg å kryptere og dekryptere filer uten internett på telefon eller nettbrett. Velg en fil, skriv inn et passord og lagre en .cryptcat-fil. Eldre .crypt3-filer kan fortsatt åpnes. Filer og passord blir på denne enheten. Appen trenger ikke internett for kryptering eller dekryptering. Ta vare på passordet; et mistet passord kan ikke gjenopprettes.",
+  "keywords": "kryptering,offline,fil,personvern,passord",
+  "whatsNew": "Krypter og dekrypter filer uten internett. Filer og passord blir på enheten din.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "KryptoKatt",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

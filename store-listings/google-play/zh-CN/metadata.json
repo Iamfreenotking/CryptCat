@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "zh-CN",
+  "languageName": "Chinese (Simplified)",
+  "title": "加密猫",
+  "subtitle": "离线文件加密",
+  "shortDescription": "离线文件加密",
+  "promotionalText": "离线加密和解密文件。文件和密码只保存在你的设备上。",
+  "fullDescription": "加密猫可以在手机或平板上离线加密和解密文件。选择文件，输入密码，然后保存 .cryptcat 文件。旧的 .crypt3 文件仍然可以打开。文件和密码只留在本设备上。加密和解密不需要联网。请妥善保存密码，加密猫无法找回丢失的密码。",
+  "keywords": "加密,离线,文件,隐私,密码,文档,照片",
+  "whatsNew": "离线文件加密",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "加密猫"
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "pl-PL",
+  "languageName": "Polish",
+  "title": "KryptoKot",
+  "subtitle": "Szyfrowanie plików offline",
+  "shortDescription": "Szyfrowanie plików offline",
+  "promotionalText": "Szyfruj i odszyfruj pliki offline. Pliki i hasła zostają na urządzeniu.",
+  "fullDescription": "KryptoKot pomaga szyfrować i odszyfrowywać pliki offline na telefonie lub tablecie. Wybierz plik, wpisz hasło i zapisz plik .cryptcat. Starsze pliki .crypt3 nadal można otworzyć. Pliki i hasła zostają na tym urządzeniu. Aplikacja nie wymaga internetu do szyfrowania ani odszyfrowywania. Zachowaj hasło; utraconego hasła nie da się odzyskać.",
+  "keywords": "szyfrowanie,offline,plik,prywatność,hasło",
+  "whatsNew": "Szyfrowanie plików offline",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KryptoKot"
+}

@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "id",
+  "languageName": "Indonesian",
+  "title": "KucingKripto",
+  "subtitle": "Enkripsi file offline",
+  "shortDescription": "Enkripsi dan buka file tanpa internet. File dan kata sandi tetap di perangkat Anda.",
+  "promotionalText": "Enkripsi dan buka file tanpa internet. File dan kata sandi tetap di perangkat Anda.",
+  "fullDescription": "KucingKripto membantu mengenkripsi dan membuka file tanpa internet di ponsel atau tablet. Pilih file, masukkan kata sandi, lalu simpan file .cryptcat. File lama .crypt3 tetap bisa dibuka. File dan kata sandi tetap berada di perangkat ini. Aplikasi tidak memerlukan internet untuk enkripsi atau dekripsi. Simpan kata sandi dengan baik; kata sandi yang hilang tidak dapat dipulihkan.",
+  "keywords": "enkripsi,offline,file,privasi,kata sandi",
+  "whatsNew": "Enkripsi dan buka file tanpa internet. File dan kata sandi tetap di perangkat Anda.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "KucingKripto",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

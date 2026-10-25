@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ky-KG",
+  "languageName": "Kyrgyz",
+  "title": "КриптоМышык",
+  "subtitle": "Офлайн файл шифрлөө",
+  "shortDescription": "Офлайн файл шифрлөө",
+  "promotionalText": "Файлдарды интернетсиз шифрлеп жана ачыңыз. Файлдар менен сырсөздөр түзмөктө калат.",
+  "fullDescription": "КриптоМышык телефондо же планшетте файлдарды интернетсиз шифрлеп жана ачууга жардам берет. Файл тандап, сырсөз киргизип, .cryptcat файлын сактаңыз. Эски .crypt3 файлдары да ачылат. Файлдар менен сырсөздөр ушул түзмөктө калат. Сырсөздү сактаңыз; жоголгон сырсөз калыбына келбейт.",
+  "keywords": "шифрлөө,офлайн,файл,купуялык,сырсөз",
+  "whatsNew": "Офлайн файл шифрлөө",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "КриптоМышык"
+}

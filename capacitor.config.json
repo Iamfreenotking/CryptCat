@@ -1,0 +1,23 @@
+{
+  "appId": "com.bullbullgo.crypt3",
+  "appName": "CryptCat",
+  "webDir": "www",
+  "ios": {
+    "scheme": "Crypt3",
+    "contentInset": "automatic",
+    "backgroundColor": "#0a0e17",
+    "preferredContentMode": "mobile",
+    "allowsLinkPreview": false
+  },
+  "android": {
+    "backgroundColor": "#0a0e17",
+    "allowMixedContent": false,
+    "useLegacyBridge": false
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0a0e17"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ka-GE",
+  "languageName": "Georgian",
+  "title": "კრიპტოკატა",
+  "subtitle": "ფაილების ოფლაინ დაშიფვრა",
+  "shortDescription": "ფაილების ოფლაინ დაშიფვრა",
+  "promotionalText": "დაშიფრეთ და გახსენით ფაილები ინტერნეტის გარეშე. ფაილები და პაროლები რჩება მოწყობილობაზე.",
+  "fullDescription": "კრიპტოკატა გეხმარებათ ტელეფონზე ან ტაბლეტზე ფაილების ინტერნეტის გარეშე დაშიფვრასა და გახსნაში. აირჩიეთ ფაილი, შეიყვანეთ პაროლი და შეინახეთ .cryptcat ფაილი. ძველი .crypt3 ფაილებიც იხსნება. ფაილები და პაროლები ამ მოწყობილობაზე რჩება. შეინახეთ პაროლი უსაფრთხოდ; დაკარგული პაროლი ვერ აღდგება.",
+  "keywords": "დაშიფვრა,ოფლაინ,ფაილი,პირადულობა,პაროლი",
+  "whatsNew": "ფაილების ოფლაინ დაშიფვრა",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "კრიპტოკატა"
+}

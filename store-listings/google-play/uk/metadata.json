@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "uk",
+  "languageName": "Ukrainian",
+  "title": "Криптокіт",
+  "subtitle": "Шифрування файлів офлайн",
+  "shortDescription": "Шифрування файлів офлайн",
+  "promotionalText": "Шифруйте й розшифровуйте файли без інтернету. Файли та паролі залишаються на пристрої.",
+  "fullDescription": "Криптокіт допомагає шифрувати й розшифровувати файли без інтернету на телефоні або планшеті. Виберіть файл, введіть пароль і збережіть файл .cryptcat. Старі файли .crypt3 також можна відкрити. Файли та паролі залишаються на цьому пристрої. Додатку не потрібен інтернет для шифрування чи розшифрування. Бережіть пароль; втрачений пароль відновити неможливо.",
+  "keywords": "шифрування,офлайн,файл,приватність,пароль",
+  "whatsNew": "Шифрування файлів офлайн",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "Криптокіт"
+}

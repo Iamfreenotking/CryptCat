@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="format-detection" content="telephone=no">
+<meta name="color-scheme" content="dark">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' capacitor:; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval'; connect-src 'none'; img-src 'self' data:; font-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none';">
+<title>CryptCat</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="app">
+  <div class="header">
+    <div class="logo" id="logo">
+      <img src="cryptcat-logo.svg" alt="" aria-hidden="true">
+    </div>
+    <h1 data-i18n="appTitle">CryptCat = OpenSource + Offline Encryption</h1>
+
+    <!-- Language Selector -->
+    <div class="lang-selector">
+      <svg class="globe-icon" viewBox="0 0 24 24" width="16" height="16"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z" fill="currentColor"/></svg>
+      <div class="lang-picker">
+        <input type="search" id="langFilter" class="lang-filter" autocomplete="off" autocorrect="off" spellcheck="false" enterkeyhint="done">
+        <select id="langSelect" aria-label="Language"></select>
+      </div>
+    </div>
+
+    <div class="security-badge">
+      <svg viewBox="0 0 16 16"><path d="M8 0L1 3v4.5c0 4.08 2.99 7.89 7 8.5 4.01-.61 7-4.42 7-8.5V3L8 0zm0 14.47c-3.17-.73-5.5-3.86-5.5-7.04V3.97L8 1.14l5.5 2.83v3.46c0 3.18-2.33 6.31-5.5 7.04zM7 10.5l-2-2 1-1 1 1 3-3 1 1-4 4z" fill="currentColor"/></svg>
+      <span data-i18n="securityBadge">100% offline · Data never leaves this device</span>
+    </div>
+  </div>
+
+  <div class="card" id="mainCard">
+    <!-- Mode Toggle -->
+    <div class="mode-toggle">
+      <button class="mode-btn active-decrypt" id="btnModeDecrypt" data-i18n="modeDecrypt">🔓 Decrypt</button>
+      <button class="mode-btn" id="btnModeEncrypt" data-i18n="modeEncrypt">🔒 Encrypt</button>
+    </div>
+
+    <!-- Drop Zone / File Selector -->
+    <div class="drop-zone" id="dropZone">
+      <svg viewBox="0 0 24 24"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM14 13v4h-4v-4H7l5-5 5 5h-3z" fill="currentColor"/></svg>
+      <div class="drop-zone-title" id="dropTitle" data-i18n="modeDecrypt">Decrypt</div>
+      <div class="drop-zone-hint" id="dropHint" data-i18n="dropHint">or tap to select file</div>
+      <input type="file" id="fileInput" accept=".cryptcat,.crypt3,application/octet-stream">
+    </div>
+    <div class="file-info" id="fileInfo">
+      <span class="filename" id="fileName"></span>
+      <span class="filesize" id="fileSize"></span>
+    </div>
+
+    <!-- Password -->
+    <div class="field">
+      <label for="password" id="pwdLabel">🔑 Decryption Password</label>
+      <div class="input-wrap">
+        <input type="password" id="password" data-i18n-placeholder="pwdPlaceholder" placeholder="Enter your password" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+        <button type="button" class="toggle-pwd" id="togglePwd" aria-label="Toggle password visibility">
+          <svg viewBox="0 0 24 24"><path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="currentColor"/></svg>
+        </button>
+      </div>
+      <div class="pwd-verify" id="pwdVerify"></div>
+    </div>
+
+    <!-- Confirm Password (encrypt only) -->
+    <div class="field-confirm" id="confirmField">
+      <label for="passwordConfirm" data-i18n="confirmLabel">🔑 Confirm Password</label>
+      <div class="input-wrap">
+        <input type="password" id="passwordConfirm" data-i18n-placeholder="confirmPlaceholder" placeholder="Enter password again" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      </div>
+      <div class="pwd-match" id="pwdMatch"></div>
+    </div>
+
+    <!-- Action Button -->
+    <button class="btn-action decrypt-btn" id="btnAction" disabled>
+      <span class="btn-text" id="btnText">🔓 Decrypt & Save</span>
+      <span class="spinner"></span>
+    </button>
+
+    <!-- Save/Share Actions -->
+    <div class="save-actions" id="saveActions">
+      <button class="btn-secondary" id="btnSaveFiles">
+        <svg viewBox="0 0 24 24" width="16" height="16"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor"/></svg>
+        <span data-i18n="fileSaved">Save to Files</span>
+      </button>
+      <button class="btn-secondary" id="btnShare">
+        <svg viewBox="0 0 24 24" width="16" height="16"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z" fill="currentColor"/></svg>
+        <span data-i18n="shareFile">Share</span>
+      </button>
+    </div>
+
+    <!-- Progress -->
+    <div class="progress-bar" id="progressBar">
+      <div class="fill" id="progressFill"></div>
+    </div>
+
+    <!-- Status -->
+    <div class="status" id="status"></div>
+  </div>
+
+  <div class="footer">
+    <p>© 2025 BULLBULLGO SOFTWARE LLC</p>
+  </div>
+</div>
+
+<script src="js/locales.js"></script>
+<script src="js/locales-extra.js"></script>
+<script src="js/i18n-extra.js"></script>
+<script src="js/i18n-top100.js"></script>
+<script src="js/i18n.js"></script>
+<script src="vendor/libsodium/libsodium-sumo.js"></script>
+<script src="vendor/libsodium/libsodium-wrappers.js"></script>
+<script src="js/crypto.js"></script>
+<script src="js/crypto-v2.js"></script>
+<script src="js/crypto-router.js"></script>
+<script src="js/native-io.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

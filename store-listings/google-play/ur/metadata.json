@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ur",
+  "languageName": "Urdu",
+  "title": "کرپٹو بلی",
+  "subtitle": "آف لائن فائل انکرپشن",
+  "shortDescription": "آف لائن فائل انکرپشن",
+  "promotionalText": "انٹرنیٹ کے بغیر فائلیں انکرپٹ اور ڈکرپٹ کریں۔ فائلیں اور پاس ورڈ آپ کے آلے پر رہتے ہیں۔",
+  "fullDescription": "کرپٹو بلی فون یا ٹیبلیٹ پر انٹرنیٹ کے بغیر فائلیں انکرپٹ اور ڈکرپٹ کرنے میں مدد دیتی ہے۔ فائل منتخب کریں، پاس ورڈ درج کریں اور .cryptcat فائل محفوظ کریں۔ پرانی .crypt3 فائلیں بھی کھولی جا سکتی ہیں۔ فائلیں اور پاس ورڈ اسی آلے پر رہتے ہیں۔ پاس ورڈ محفوظ رکھیں؛ گم شدہ پاس ورڈ واپس نہیں مل سکتا۔",
+  "keywords": "انکرپشن,آف لائن,فائل,پرائیویسی,پاس ورڈ",
+  "whatsNew": "آف لائن فائل انکرپشن",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "کرپٹو بلی"
+}

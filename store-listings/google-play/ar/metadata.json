@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ar",
+  "languageName": "Arabic",
+  "title": "قط التشفير",
+  "subtitle": "تشفير ملفات دون إنترنت",
+  "shortDescription": "تشفير ملفات دون إنترنت",
+  "promotionalText": "شفّر الملفات وافتحها دون إنترنت. تبقى الملفات وكلمات المرور على جهازك.",
+  "fullDescription": "يساعدك قط التشفير على تشفير الملفات وفك تشفيرها دون إنترنت على هاتفك أو جهازك اللوحي. اختر ملفا، أدخل كلمة مرور، واحفظ ملف .cryptcat. يمكن أيضا فتح ملفات .crypt3 القديمة. تبقى الملفات وكلمات المرور على هذا الجهاز. لا يحتاج التطبيق إلى الإنترنت للتشفير أو فك التشفير. احفظ كلمة المرور جيدا، فلا يمكن استعادتها إذا فُقدت.",
+  "keywords": "تشفير,دون إنترنت,ملفات,خصوصية,كلمة مرور",
+  "whatsNew": "تشفير ملفات دون إنترنت",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "قط التشفير"
+}

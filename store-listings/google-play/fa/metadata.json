@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "fa",
+  "languageName": "Persian",
+  "title": "گربه‌رمز",
+  "subtitle": "رمزگذاری آفلاین فایل",
+  "shortDescription": "رمزگذاری آفلاین فایل",
+  "promotionalText": "فایل‌ها را بدون اینترنت رمزگذاری و باز کنید. فایل‌ها و گذرواژه‌ها روی دستگاه می‌مانند.",
+  "fullDescription": "گربه‌رمز به شما کمک می‌کند فایل‌ها را روی گوشی یا تبلت بدون اینترنت رمزگذاری و باز کنید. یک فایل انتخاب کنید، گذرواژه وارد کنید و فایل .cryptcat ذخیره کنید. فایل‌های قدیمی .crypt3 هم باز می‌شوند. فایل‌ها و گذرواژه‌ها روی همین دستگاه می‌مانند. گذرواژه را امن نگه دارید؛ گذرواژه گم‌شده قابل بازیابی نیست.",
+  "keywords": "رمزگذاری,آفلاین,فایل,حریم خصوصی,گذرواژه",
+  "whatsNew": "رمزگذاری آفلاین فایل",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "گربه‌رمز"
+}

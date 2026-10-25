@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "my-MM",
+  "languageName": "Burmese",
+  "title": "Cryptoကြောင်",
+  "subtitle": "အော့ဖ်လိုင်း ဖိုင်စာဝှက်",
+  "shortDescription": "အော့ဖ်လိုင်း ဖိုင်စာဝှက်",
+  "promotionalText": "အင်တာနက်မလိုဘဲ ဖိုင်များကို စာဝှက်ပြီး ပြန်ဖွင့်ပါ။ ဖိုင်နှင့် စကားဝှက်များသည် စက်ထဲတွင်သာရှိသည်။",
+  "fullDescription": "Cryptoကြောင် သည် ဖုန်း သို့မဟုတ် တက်ဘလက်ပေါ်တွင် အင်တာနက်မလိုဘဲ ဖိုင်များကို စာဝှက်ပြီး ပြန်ဖွင့်ရန် ကူညီသည်။ ဖိုင်တစ်ခုရွေးပါ၊ စကားဝှက်ထည့်ပါ၊ .cryptcat ဖိုင်အဖြစ် သိမ်းပါ။ .crypt3 ဖိုင်ဟောင်းများကိုလည်း ဖွင့်နိုင်သည်။ ဖိုင်နှင့် စကားဝှက်များသည် ဤစက်ထဲတွင်သာ ရှိသည်။ စကားဝှက်ကို သေချာသိမ်းပါ; ပျောက်သွားလျှင် ပြန်ယူ၍မရပါ။",
+  "keywords": "စာဝှက်,အော့ဖ်လိုင်း,ဖိုင်,ကိုယ်ရေးလုံခြုံမှု,စကားဝှက်",
+  "whatsNew": "အော့ဖ်လိုင်း ဖိုင်စာဝှက်",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "Cryptoကြောင်"
+}

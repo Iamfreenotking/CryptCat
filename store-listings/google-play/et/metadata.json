@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "et",
+  "languageName": "Estonian",
+  "title": "KrüptoKass",
+  "subtitle": "Võrguühenduseta failikrüpteering",
+  "shortDescription": "Võrguühenduseta failikrüpteering",
+  "promotionalText": "Krüpteeri ja ava faile ilma internetita. Failid ja paroolid jäävad seadmesse.",
+  "fullDescription": "KrüptoKass aitab telefonis või tahvelarvutis faile ilma internetita krüpteerida ja avada. Vali fail, sisesta parool ja salvesta .cryptcat-fail. Vanad .crypt3-failid avanevad endiselt. Failid ja paroolid jäävad sellesse seadmesse. Hoia parooli turvaliselt; kaotatud parooli ei saa taastada.",
+  "keywords": "krüpteerimine,offline,fail,privaatsus,parool",
+  "whatsNew": "Võrguühenduseta failikrüpteering",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KrüptoKass"
+}

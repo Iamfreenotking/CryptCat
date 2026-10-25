@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "bg",
+  "languageName": "Bulgarian",
+  "title": "КриптоКотка",
+  "subtitle": "Офлайн шифроване",
+  "shortDescription": "Офлайн шифроване",
+  "promotionalText": "Шифровайте и отваряйте файлове без интернет. Файловете и паролите остават на устройството.",
+  "fullDescription": "КриптоКотка помага да шифровате и отваряте файлове без интернет на телефон или таблет. Изберете файл, въведете парола и запазете .cryptcat файл. Старите .crypt3 файлове също могат да се отварят. Файловете и паролите остават на това устройство. Пазете паролата си; изгубена парола не може да се възстанови.",
+  "keywords": "шифроване,офлайн,файл,поверителност,парола",
+  "whatsNew": "Офлайн шифроване",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "КриптоКотка"
+}

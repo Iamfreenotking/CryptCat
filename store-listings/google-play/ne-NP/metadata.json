@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "ne-NP",
+  "languageName": "Nepali",
+  "title": "क्रिप्टोबिरालो",
+  "subtitle": "अफलाइन फाइल इन्क्रिप्सन",
+  "shortDescription": "अफलाइन फाइल इन्क्रिप्सन",
+  "promotionalText": "इन्टरनेट बिना फाइल इन्क्रिप्ट र डिक्रिप्ट गर्नुहोस्। फाइल र पासवर्ड उपकरणमै रहन्छन्।",
+  "fullDescription": "क्रिप्टोबिरालोले फोन वा ट्याबलेटमा इन्टरनेट बिना फाइल इन्क्रिप्ट र डिक्रिप्ट गर्न मद्दत गर्छ। फाइल छान्नुहोस्, पासवर्ड दिनुहोस् र .cryptcat फाइल सेभ गर्नुहोस्। पुराना .crypt3 फाइल पनि खुल्छन्। फाइल र पासवर्ड यही उपकरणमा रहन्छन्। पासवर्ड सुरक्षित राख्नुहोस्; हराएको पासवर्ड फिर्ता ल्याउन सकिँदैन।",
+  "keywords": "इन्क्रिप्सन,अफलाइन,फाइल,गोपनीयता,पासवर्ड",
+  "whatsNew": "अफलाइन फाइल इन्क्रिप्सन",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "क्रिप्टोबिरालो"
+}

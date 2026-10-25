@@ -1,0 +1,602 @@
+{
+  "generatedAt": "2026-07-11T19:04:27.424Z",
+  "appName": "CryptCat",
+  "sourceOfTruth": {
+    "appStoreLocalizations": "https://developer.apple.com/help/app-store-connect/reference/app-information/app-store-localizations",
+    "googlePlayLocalizations": "https://support.google.com/googleplay/android-developer/answer/9844778"
+  },
+  "counts": {
+    "appStoreLocales": 50,
+    "googlePlayLocales": 86,
+    "appInterfaceLocales": 100,
+    "appOnlyLocales": 33
+  },
+  "appStoreLocales": [
+    {
+      "locale": "ar-SA",
+      "languageName": "Arabic"
+    },
+    {
+      "locale": "bn",
+      "languageName": "Bangla"
+    },
+    {
+      "locale": "ca",
+      "languageName": "Catalan"
+    },
+    {
+      "locale": "zh-Hans",
+      "languageName": "Chinese (Simplified)"
+    },
+    {
+      "locale": "zh-Hant",
+      "languageName": "Chinese (Traditional)"
+    },
+    {
+      "locale": "hr",
+      "languageName": "Croatian"
+    },
+    {
+      "locale": "cs",
+      "languageName": "Czech"
+    },
+    {
+      "locale": "da",
+      "languageName": "Danish"
+    },
+    {
+      "locale": "nl-NL",
+      "languageName": "Dutch"
+    },
+    {
+      "locale": "en-AU",
+      "languageName": "English (Australia)"
+    },
+    {
+      "locale": "en-CA",
+      "languageName": "English (Canada)"
+    },
+    {
+      "locale": "en-GB",
+      "languageName": "English (U.K.)"
+    },
+    {
+      "locale": "en-US",
+      "languageName": "English (U.S.)"
+    },
+    {
+      "locale": "fi",
+      "languageName": "Finnish"
+    },
+    {
+      "locale": "fr-FR",
+      "languageName": "French"
+    },
+    {
+      "locale": "fr-CA",
+      "languageName": "French (Canada)"
+    },
+    {
+      "locale": "de-DE",
+      "languageName": "German"
+    },
+    {
+      "locale": "el",
+      "languageName": "Greek"
+    },
+    {
+      "locale": "gu",
+      "languageName": "Gujarati"
+    },
+    {
+      "locale": "he",
+      "languageName": "Hebrew"
+    },
+    {
+      "locale": "hi",
+      "languageName": "Hindi"
+    },
+    {
+      "locale": "hu",
+      "languageName": "Hungarian"
+    },
+    {
+      "locale": "id",
+      "languageName": "Indonesian"
+    },
+    {
+      "locale": "it",
+      "languageName": "Italian"
+    },
+    {
+      "locale": "ja",
+      "languageName": "Japanese"
+    },
+    {
+      "locale": "kn",
+      "languageName": "Kannada"
+    },
+    {
+      "locale": "ko",
+      "languageName": "Korean"
+    },
+    {
+      "locale": "ms",
+      "languageName": "Malay"
+    },
+    {
+      "locale": "ml",
+      "languageName": "Malayalam"
+    },
+    {
+      "locale": "mr",
+      "languageName": "Marathi"
+    },
+    {
+      "locale": "no",
+      "languageName": "Norwegian"
+    },
+    {
+      "locale": "or",
+      "languageName": "Odia"
+    },
+    {
+      "locale": "pl",
+      "languageName": "Polish"
+    },
+    {
+      "locale": "pt-BR",
+      "languageName": "Portuguese (Brazil)"
+    },
+    {
+      "locale": "pt-PT",
+      "languageName": "Portuguese (Portugal)"
+    },
+    {
+      "locale": "pa",
+      "languageName": "Punjabi"
+    },
+    {
+      "locale": "ro",
+      "languageName": "Romanian"
+    },
+    {
+      "locale": "ru",
+      "languageName": "Russian"
+    },
+    {
+      "locale": "sk",
+      "languageName": "Slovak"
+    },
+    {
+      "locale": "sl",
+      "languageName": "Slovenian"
+    },
+    {
+      "locale": "es-MX",
+      "languageName": "Spanish (Mexico)"
+    },
+    {
+      "locale": "es-ES",
+      "languageName": "Spanish (Spain)"
+    },
+    {
+      "locale": "sv",
+      "languageName": "Swedish"
+    },
+    {
+      "locale": "ta",
+      "languageName": "Tamil"
+    },
+    {
+      "locale": "te",
+      "languageName": "Telugu"
+    },
+    {
+      "locale": "th",
+      "languageName": "Thai"
+    },
+    {
+      "locale": "tr",
+      "languageName": "Turkish"
+    },
+    {
+      "locale": "uk",
+      "languageName": "Ukrainian"
+    },
+    {
+      "locale": "ur",
+      "languageName": "Urdu"
+    },
+    {
+      "locale": "vi",
+      "languageName": "Vietnamese"
+    }
+  ],
+  "googlePlayLocales": [
+    {
+      "locale": "af",
+      "languageName": "Afrikaans"
+    },
+    {
+      "locale": "sq",
+      "languageName": "Albanian"
+    },
+    {
+      "locale": "am",
+      "languageName": "Amharic"
+    },
+    {
+      "locale": "ar",
+      "languageName": "Arabic"
+    },
+    {
+      "locale": "hy-AM",
+      "languageName": "Armenian"
+    },
+    {
+      "locale": "az-AZ",
+      "languageName": "Azerbaijani"
+    },
+    {
+      "locale": "bn-BD",
+      "languageName": "Bangla"
+    },
+    {
+      "locale": "eu-ES",
+      "languageName": "Basque"
+    },
+    {
+      "locale": "be",
+      "languageName": "Belarusian"
+    },
+    {
+      "locale": "bg",
+      "languageName": "Bulgarian"
+    },
+    {
+      "locale": "my-MM",
+      "languageName": "Burmese"
+    },
+    {
+      "locale": "ca",
+      "languageName": "Catalan"
+    },
+    {
+      "locale": "zh-HK",
+      "languageName": "Chinese (Hong Kong)"
+    },
+    {
+      "locale": "zh-CN",
+      "languageName": "Chinese (Simplified)"
+    },
+    {
+      "locale": "zh-TW",
+      "languageName": "Chinese (Traditional)"
+    },
+    {
+      "locale": "hr",
+      "languageName": "Croatian"
+    },
+    {
+      "locale": "cs-CZ",
+      "languageName": "Czech"
+    },
+    {
+      "locale": "da-DK",
+      "languageName": "Danish"
+    },
+    {
+      "locale": "nl-NL",
+      "languageName": "Dutch"
+    },
+    {
+      "locale": "en-AU",
+      "languageName": "English (Australia)"
+    },
+    {
+      "locale": "en-CA",
+      "languageName": "English (Canada)"
+    },
+    {
+      "locale": "en-US",
+      "languageName": "English (United States)"
+    },
+    {
+      "locale": "en-GB",
+      "languageName": "English (United Kingdom)"
+    },
+    {
+      "locale": "en-IN",
+      "languageName": "English (India)"
+    },
+    {
+      "locale": "en-SG",
+      "languageName": "English (Singapore)"
+    },
+    {
+      "locale": "en-ZA",
+      "languageName": "English (South Africa)"
+    },
+    {
+      "locale": "et",
+      "languageName": "Estonian"
+    },
+    {
+      "locale": "fil",
+      "languageName": "Filipino"
+    },
+    {
+      "locale": "fi-FI",
+      "languageName": "Finnish"
+    },
+    {
+      "locale": "fr-CA",
+      "languageName": "French (Canada)"
+    },
+    {
+      "locale": "fr-FR",
+      "languageName": "French (France)"
+    },
+    {
+      "locale": "gl-ES",
+      "languageName": "Galician"
+    },
+    {
+      "locale": "ka-GE",
+      "languageName": "Georgian"
+    },
+    {
+      "locale": "de-DE",
+      "languageName": "German"
+    },
+    {
+      "locale": "el-GR",
+      "languageName": "Greek"
+    },
+    {
+      "locale": "gu",
+      "languageName": "Gujarati"
+    },
+    {
+      "locale": "iw-IL",
+      "languageName": "Hebrew"
+    },
+    {
+      "locale": "hi-IN",
+      "languageName": "Hindi"
+    },
+    {
+      "locale": "hu-HU",
+      "languageName": "Hungarian"
+    },
+    {
+      "locale": "is-IS",
+      "languageName": "Icelandic"
+    },
+    {
+      "locale": "id",
+      "languageName": "Indonesian"
+    },
+    {
+      "locale": "it-IT",
+      "languageName": "Italian"
+    },
+    {
+      "locale": "ja-JP",
+      "languageName": "Japanese"
+    },
+    {
+      "locale": "kn-IN",
+      "languageName": "Kannada"
+    },
+    {
+      "locale": "kk",
+      "languageName": "Kazakh"
+    },
+    {
+      "locale": "km-KH",
+      "languageName": "Khmer"
+    },
+    {
+      "locale": "ko-KR",
+      "languageName": "Korean"
+    },
+    {
+      "locale": "ky-KG",
+      "languageName": "Kyrgyz"
+    },
+    {
+      "locale": "lo-LA",
+      "languageName": "Lao"
+    },
+    {
+      "locale": "lv",
+      "languageName": "Latvian"
+    },
+    {
+      "locale": "lt",
+      "languageName": "Lithuanian"
+    },
+    {
+      "locale": "mk-MK",
+      "languageName": "Macedonian"
+    },
+    {
+      "locale": "ms-MY",
+      "languageName": "Malay (Malaysia)"
+    },
+    {
+      "locale": "ms",
+      "languageName": "Malay"
+    },
+    {
+      "locale": "ml-IN",
+      "languageName": "Malayalam"
+    },
+    {
+      "locale": "mr-IN",
+      "languageName": "Marathi"
+    },
+    {
+      "locale": "mn-MN",
+      "languageName": "Mongolian"
+    },
+    {
+      "locale": "ne-NP",
+      "languageName": "Nepali"
+    },
+    {
+      "locale": "no-NO",
+      "languageName": "Norwegian"
+    },
+    {
+      "locale": "fa",
+      "languageName": "Persian"
+    },
+    {
+      "locale": "fa-AE",
+      "languageName": "Persian (UAE)"
+    },
+    {
+      "locale": "fa-AF",
+      "languageName": "Persian (Afghanistan)"
+    },
+    {
+      "locale": "fa-IR",
+      "languageName": "Persian (Iran)"
+    },
+    {
+      "locale": "pl-PL",
+      "languageName": "Polish"
+    },
+    {
+      "locale": "pt-BR",
+      "languageName": "Portuguese (Brazil)"
+    },
+    {
+      "locale": "pt-PT",
+      "languageName": "Portuguese (Portugal)"
+    },
+    {
+      "locale": "pa",
+      "languageName": "Punjabi"
+    },
+    {
+      "locale": "ro",
+      "languageName": "Romanian"
+    },
+    {
+      "locale": "rm",
+      "languageName": "Romansh"
+    },
+    {
+      "locale": "ru-RU",
+      "languageName": "Russian"
+    },
+    {
+      "locale": "sr",
+      "languageName": "Serbian"
+    },
+    {
+      "locale": "si-LK",
+      "languageName": "Sinhala"
+    },
+    {
+      "locale": "sk",
+      "languageName": "Slovak"
+    },
+    {
+      "locale": "sl",
+      "languageName": "Slovenian"
+    },
+    {
+      "locale": "es-419",
+      "languageName": "Spanish (Latin America)"
+    },
+    {
+      "locale": "es-ES",
+      "languageName": "Spanish (Spain)"
+    },
+    {
+      "locale": "es-US",
+      "languageName": "Spanish (United States)"
+    },
+    {
+      "locale": "sw",
+      "languageName": "Swahili"
+    },
+    {
+      "locale": "sv-SE",
+      "languageName": "Swedish"
+    },
+    {
+      "locale": "ta-IN",
+      "languageName": "Tamil"
+    },
+    {
+      "locale": "te-IN",
+      "languageName": "Telugu"
+    },
+    {
+      "locale": "th",
+      "languageName": "Thai"
+    },
+    {
+      "locale": "tr-TR",
+      "languageName": "Turkish"
+    },
+    {
+      "locale": "uk",
+      "languageName": "Ukrainian"
+    },
+    {
+      "locale": "ur",
+      "languageName": "Urdu"
+    },
+    {
+      "locale": "vi",
+      "languageName": "Vietnamese"
+    }
+  ],
+  "appOnlyLocales": [
+    "ha",
+    "yo",
+    "ps",
+    "uz",
+    "sd",
+    "yue",
+    "wuu",
+    "jv",
+    "bho",
+    "mai",
+    "mag",
+    "awa",
+    "hne",
+    "ckb",
+    "ku",
+    "om",
+    "ig",
+    "zu",
+    "xh",
+    "rw",
+    "sn",
+    "so",
+    "ln",
+    "ny",
+    "ak",
+    "ff",
+    "mg",
+    "ceb",
+    "ilo",
+    "hmn",
+    "bs",
+    "tg",
+    "tk"
+  ],
+  "policy": {
+    "storeOfficialLanguagesAreLocalized": true,
+    "unsupportedStoreLanguagesRemainInAppOnly": true,
+    "nativeReviewRecommendedBeforeSubmission": true
+  }
+}

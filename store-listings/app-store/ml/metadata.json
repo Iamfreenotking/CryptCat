@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "ml",
+  "languageName": "Malayalam",
+  "title": "ക്രിപ്റ്റോപൂച്ച",
+  "subtitle": "ഓഫ്‌ലൈൻ ഫയൽ എൻക്രിപ്ഷൻ",
+  "shortDescription": "ഇന്റർനെറ്റ് ഇല്ലാതെ ഫയൽ എൻക്രിപ്റ്റ്, ഡിക്രിപ്റ്റ് ചെയ്യുക. ഫയലുകളും പാസ്‌വേഡുകളും ഉപകരണത്തിൽ തന്നെ.",
+  "promotionalText": "ഇന്റർനെറ്റ് ഇല്ലാതെ ഫയൽ എൻക്രിപ്റ്റ്, ഡിക്രിപ്റ്റ് ചെയ്യുക. ഫയലുകളും പാസ്‌വേഡുകളും ഉപകരണത്തിൽ തന്നെ.",
+  "fullDescription": "ക്രിപ്റ്റോപൂച്ച ഫോൺ അല്ലെങ്കിൽ ടാബ്‌ലെറ്റിൽ ഇന്റർനെറ്റ് ഇല്ലാതെ ഫയലുകൾ എൻക്രിപ്റ്റ് ചെയ്യാനും ഡിക്രിപ്റ്റ് ചെയ്യാനും സഹായിക്കുന്നു. ഫയൽ തിരഞ്ഞെടുക്കുക, പാസ്‌വേഡ് നൽകുക, .cryptcat ഫയൽ സംരക്ഷിക്കുക. പഴയ .crypt3 ഫയലുകളും തുറക്കാം. ഫയലുകളും പാസ്‌വേഡുകളും ഈ ഉപകരണത്തിൽ തന്നെ ഇരിക്കും. പാസ്‌വേഡ് സൂക്ഷിക്കുക; നഷ്ടപ്പെട്ടാൽ തിരികെ ലഭ്യമല്ല.",
+  "keywords": "എൻക്രിപ്ഷൻ,ഓഫ്‌ലൈൻ,ഫയൽ,സ്വകാര്യത,പാസ്‌വേഡ്",
+  "whatsNew": "ഇന്റർനെറ്റ് ഇല്ലാതെ ഫയൽ എൻക്രിപ്റ്റ്, ഡിക്രിപ്റ്റ് ചെയ്യുക. ഫയലുകളും പാസ്‌വേഡുകളും ഉപകരണത്തിൽ തന്നെ.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "ക്രിപ്റ്റോപൂച്ച",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

@@ -1,0 +1,24 @@
+{
+  "platform": "google-play",
+  "locale": "lv",
+  "languageName": "Latvian",
+  "title": "KriptoKaķis",
+  "subtitle": "Bezsaistes failu šifrēšana",
+  "shortDescription": "Bezsaistes failu šifrēšana",
+  "promotionalText": "Šifrē un atver failus bez interneta. Faili un paroles paliek ierīcē.",
+  "fullDescription": "KriptoKaķis palīdz šifrēt un atvērt failus bez interneta telefonā vai planšetē. Izvēlieties failu, ievadiet paroli un saglabājiet .cryptcat failu. Vecos .crypt3 failus joprojām var atvērt. Faili un paroles paliek šajā ierīcē. Glabājiet paroli droši; pazaudētu paroli nevar atgūt.",
+  "keywords": "šifrēšana,bezsaiste,fails,privātums,parole",
+  "whatsNew": "Bezsaistes failu šifrēšana",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "googlePlayTitle": "KriptoKaķis"
+}

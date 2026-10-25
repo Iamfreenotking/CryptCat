@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "hu",
+  "languageName": "Hungarian",
+  "title": "KriptoMacska",
+  "subtitle": "Offline fájltitkosítás",
+  "shortDescription": "Titkosíts és fejts vissza fájlokat offline. A fájlok és jelszavak az eszközön maradnak.",
+  "promotionalText": "Titkosíts és fejts vissza fájlokat offline. A fájlok és jelszavak az eszközön maradnak.",
+  "fullDescription": "A KriptoMacska segít fájlokat titkosítani és visszafejteni internet nélkül telefonon vagy tableten. Válassz fájlt, adj meg jelszót, majd ments .cryptcat fájlt. A régi .crypt3 fájlok továbbra is megnyithatók. A fájlok és jelszavak ezen az eszközön maradnak. Az appnak nincs szüksége internetre. Őrizd meg a jelszavadat; az elveszett jelszó nem állítható vissza.",
+  "keywords": "titkosítás,offline,fájl,adatvédelem,jelszó",
+  "whatsNew": "Titkosíts és fejts vissza fájlokat offline. A fájlok és jelszavak az eszközön maradnak.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "KriptoMacska",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}

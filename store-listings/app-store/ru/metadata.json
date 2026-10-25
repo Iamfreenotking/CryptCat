@@ -1,0 +1,26 @@
+{
+  "platform": "app-store",
+  "locale": "ru",
+  "languageName": "Russian",
+  "title": "Криптокот",
+  "subtitle": "Шифрование файлов офлайн",
+  "shortDescription": "Шифруйте и расшифровывайте файлы без интернета. Файлы и пароли остаются на устройстве.",
+  "promotionalText": "Шифруйте и расшифровывайте файлы без интернета. Файлы и пароли остаются на устройстве.",
+  "fullDescription": "Криптокот помогает шифровать и расшифровывать файлы без интернета на телефоне или планшете. Выберите файл, введите пароль и сохраните файл .cryptcat. Старые файлы .crypt3 по-прежнему можно открыть. Файлы и пароли остаются на этом устройстве. Приложению не нужен интернет для шифрования или расшифровки. Берегите пароль: потерянный пароль восстановить нельзя.",
+  "keywords": "шифрование,офлайн,файл,приватность,пароль",
+  "whatsNew": "Шифруйте и расшифровывайте файлы без интернета. Файлы и пароли остаются на устройстве.",
+  "supportUrl": "https://bullbullgo.com/support/cryptcat",
+  "marketingUrl": "https://bullbullgo.com/tools/crypt3_decryptor.html",
+  "privacyPolicyUrl": "https://bullbullgo.com/privacy/cryptcat",
+  "compliance": {
+    "noAccounts": true,
+    "noAds": true,
+    "noAnalytics": true,
+    "noInternetRequiredForCoreCrypto": true,
+    "noPasswordRecoveryClaim": true,
+    "nativeSpeakerLegalReviewRecommended": true
+  },
+  "appName": "Криптокот",
+  "appStoreCategory": "Utilities",
+  "appStoreSecondaryCategory": "Productivity"
+}
